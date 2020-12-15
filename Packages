@@ -1,8 +1,9 @@
-Package: com.Reb1us.Continuity
+
+Package: com.reb1us.continuity
 Version: 1.0
 Section: Tweaks
 Maintainer: Reb1us <teamreb1us@gmail.com>
-Depends: firmware (>12.0-14.3), mobilesubstrate
+Depends: firmware (>12.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/Continuity.deb
 Size: 269582

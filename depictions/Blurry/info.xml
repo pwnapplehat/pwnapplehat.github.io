@@ -1,0 +1,45 @@
+<package>
+	<id>com.reb1us.blurry</id>
+	<name>Blurry</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Adds a customizable blur under your icons.!</shortDescription>
+	<descriptionlist>
+		<description>Adds a customizable blur under your icons.!</description>
+		<description></description>
+		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Adds a customizable blur under your icons.!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Adds a customizable blur under your icons.!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Reb1us</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

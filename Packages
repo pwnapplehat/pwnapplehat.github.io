@@ -27,3 +27,18 @@ Size: 269582
 MD5sum: 1a550e209dda9648c2f44502fb490cca
 Filename: ./debs/Continuity.deb
 Depiction: https://reb1us.github.io/depictions/?p=Continuity
+
+Package: com.reb1us.blurry
+Name: Blurry
+Version: 1.0.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 352
+Author: gilshahar7 <gilshahardex99@gmail.com>
+Maintainer: gilshahar7 <gilshahardex99@gmail.com>
+Description: Adds a customizable blur under your icons.
+Size: 42442
+MD5sum: 049b43662f814b746b230233c843b9f5
+Filename: ./debs/Blurry.deb
+Depiction: https://reb1us.github.io/depictions/?p=Blurry 

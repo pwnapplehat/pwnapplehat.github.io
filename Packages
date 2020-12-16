@@ -54,3 +54,31 @@ Size: 7811726
 MD5sum: 4397f6129a0703bff7393a97dbbd31a5
 Filename: ./debs/Adonist.deb
 Depiction: https://reb1us.github.io/depictions/?p=Adonist
+
+Package: com.reb1us.adexa
+Name: ADexa
+Version: 1.5
+Section: Themes
+Architecture: iphoneos-arm
+Author: Cachetes <markosg26@gmail.com>
+Maintainer: Cachetes <markosg26@gmail.com>
+Description: Dark and colorful theme for iOS
+Size: 10116358
+MD5sum: 5e3197dd787cbd7341c8ed67ddcc2b61
+Filename: ./debs/Adexa.deb
+Depiction: https://reb1us.github.io/depictions/?p=Adexa
+
+Package: com.reb1us.bigsnooze
+Name: BigSnooze
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 12.0)
+Installed-Size: 260
+Author: cole cabral <cabralcole@gmail.com>
+Maintainer: cole cabral
+Description: Big snooze buttons for alarm, no snooze alarm and mobile timer on lockscreen.
+Size: 42670
+MD5sum: b8f65cecc3f87865df63ef651c2c276e
+Filename: ./debs/BigSnooze.deb
+Depiction: https://reb1us.github.io/depictions/?p=BigSnooze

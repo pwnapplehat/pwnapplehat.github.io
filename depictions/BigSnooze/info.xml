@@ -1,1 +1,44 @@
-
+<package>
+	<id>com.reb1us.bigsnooze</id>
+	<name>BigSnooze</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Big snooze buttons for alarm, no snooze alarm and mobile timer on lockscreen.</shortDescription>
+	<descriptionlist>
+		<description>Big snooze buttons for alarm, no snooze alarm and mobile timer on lockscreen.</description>
+		<description></description>
+		<description><![CDATA[
+		<br/>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>An eye-catching theme illuminated by matte colors Twittwr @Reb1us</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>An eye-catching theme illuminated by matte colors Twittwr @Reb1us</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>All tweaks in this repository are free!</change>
+		<change></change>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reb1us</name>
+			<url>https://twitter.com/Reb1us</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

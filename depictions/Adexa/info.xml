@@ -1,1 +1,44 @@
-
+<package>
+	<id>com.reb1us.adexa</id>
+	<name>Adexa</name>
+	<version>1.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Dark and colorful theme for iOS</shortDescription>
+	<descriptionlist>
+		<description>Dark and colorful theme for iOS</description>
+		<description></description>
+		<description><![CDATA[
+		<br/>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>An eye-catching theme illuminated by matte colors Twittwr @Reb1us</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>An eye-catching theme illuminated by matte colors Twittwr @Reb1us</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>All tweaks in this repository are free!</change>
+		<change></change>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reb1us</name>
+			<url>https://twitter.com/Reb1us</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

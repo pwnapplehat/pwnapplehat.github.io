@@ -1,4 +1,3 @@
-
 Package: com.reb1us.continuity
 Name: Continuity
 Version: 1.0
@@ -34,11 +33,11 @@ Name: BigSnooze
 Version: 1.0
 Section: Tweaks
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 13.0)
+Depends: mobilesubstrate, firmware (>= 12.0)
 Installed-Size: 260
 Author: cole cabral <cabralcole@gmail.com>
 Maintainer: cole cabral
-Description: Big snooze buttons for alarm, no snooze alarm and mobile timer on lockscreen.
+Description: Big snooze buttons for alarm, no snooze alarm and mobile timer on lockscreen. timer on lockscreen.
 Size: 42668
 MD5sum: 91d2a25141633e616cc9188099fd257d
 Filename: ./debs/BigSnooze

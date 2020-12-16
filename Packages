@@ -40,4 +40,17 @@ Description: Dark theme for iOS
 Size: 10278498 Bytes
 MD5sum: 088444518023e5444f6b6a7061b23580
 Filename: ./debs/AbzZDark.deb
-Depiction: https://reb1us.github.io/depictions/?p= AbzZDark
+Depiction: https://reb1us.github.io/depictions/?p=AbzZDark
+
+Package: com.reb1us.Adonist
+Name: Adonist
+Version: 1.1.6
+Section: Themes
+Architecture: iphoneos-arm
+Author: @kdrbrn16
+Maintainer: @kdrbrn16
+Description: An eye-catching theme illuminated by matte colors Twittwr @Reb1us
+Size: 7811726
+MD5sum: 4397f6129a0703bff7393a97dbbd31a5
+Filename: ./debs/Adonist.deb
+Depiction: https://reb1us.github.io/depictions/?p=Adonist

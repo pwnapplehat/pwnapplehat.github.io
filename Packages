@@ -41,4 +41,19 @@ Description: Adds a customizable blur under your icons.
 Size: 42442
 MD5sum: 049b43662f814b746b230233c843b9f5
 Filename: ./debs/Blurry.deb
-Depiction: https://reb1us.github.io/depictions/?p=Blurry 
+Depiction: https://reb1us.github.io/depictions/?p=Blurry
+
+Package: com.colec.bigsnooze
+Name: BigSnooze
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 12.0)
+Installed-Size: 260
+Author: cole cabral <cabralcole@gmail.com>
+Maintainer: cole cabral
+Description: Big snooze buttons for alarm, no snooze alarm and mobile timer on lockscreen.
+Size: 42668
+MD5sum: 91d2a25141633e616cc9188099fd257d
+Filename: ./debs/BigSnooze
+Depiction: https://reb1us.github.io/depictions/?p=BigSnooze

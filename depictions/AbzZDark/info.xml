@@ -1,1 +1,45 @@
-
+<package>
+	<id>com.reb1us.abzZDark</id>
+	<name>Blurry</name>
+	<version>2.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Dark theme for iOS</shortDescription>
+	<descriptionlist>
+		<description>Dark theme for iOS</description>
+		<description></description>
+		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Dark theme for iOS</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Adds a customizable blur under your icons.!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Reb1us</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

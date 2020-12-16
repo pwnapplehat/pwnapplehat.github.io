@@ -27,3 +27,17 @@ Size: 42442
 MD5sum: 049b43662f814b746b230233c843b9f5
 Filename: ./debs/Blurry.deb
 Depiction: https://reb1us.github.io/depictions/?p=Blurry
+
+Package: com.reb1us.abzzdark
+Name: AbzZ Dark
+Version: 2.1
+Section: Themes
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Author: YuD4rk <dakers_02me.com>
+Maintainer: YuD4rk <dakers_02me.com>
+Description: Dark theme for iOS
+Size: 10278498 Bytes
+MD5sum: 088444518023e5444f6b6a7061b23580
+Filename: ./debs/AbzZDark.deb
+Depiction: https://reb1us.github.io/depictions/?p= AbzZDark

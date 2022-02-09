@@ -1,0 +1,45 @@
+<package>
+	<id>com.reb1us.CarFlyHackBGMI1.8.0</id>
+	<name>Car Fly Hack BGMI Safe</name>
+	<version>1.8.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Car Fly hack for BGMI 1.8.0 and No need any Antiban, tested and working.</shortDescription>
+	<descriptionlist>
+		<description>Car Fly hack for BGMI 1.8.0 and No need any Antiban, tested and working.</description>
+		<description></description>
+		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Car Fly hack for BGMI 1.8.0 and No need any Antiban, tested and working./description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Car Fly hack for BGMI 1.8.0 and No need any Antiban, tested and working.</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change></change>
+		<change></change>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/DontBeGenius</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

@@ -82,3 +82,19 @@ Size: 42670
 MD5sum: b8f65cecc3f87865df63ef651c2c276e
 Filename: ./debs/BigSnooze.deb
 Depiction: https://reb1us.github.io/depictions/?p=BigSnooze
+
+Package: com.reb1us.Carflybgmi
+Name: Car Fly Hack BGMI Safe
+Version: 1.8.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 12.0)
+Author: iOS_hAT <csahil2892@gmail.com>
+Maintainer: iOS_hAT
+Description: Car Fly hack for BGMI 1.8.0 and No need any Antiban, tested and working.
+Size: 75714
+MD5sum: A19C5A9C65AEE8C7786619092006E36D
+SHA1: 2385B94EE5A9C737DE88711B639E8E734065E8F5
+SHA256: D4423C682C5A54CEA3A1F1A4EBA3899A7AFB6044A7540585EEAFD79B32B3AE4C
+Filename: ./debs/fly car and 10 min BGMI.deb
+Depiction: https://reb1us.github.io/depictions/?p=Carflybgmi

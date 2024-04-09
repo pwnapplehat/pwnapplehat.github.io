@@ -97,7 +97,7 @@ Size: 75742
 MD5sum: 5e824851d4b5581d2d3d0cba19377d51
 
 Package: com.reb1us.bgmi
-Name: PwnAppleHat-BGMI-Rootless
+Name: bgmi
 Version: 1.0
 Section: Tweaks
 Architecture: iphoneos-arm64
@@ -108,4 +108,4 @@ Maintainer: Johnny Waity
 Description: Scrollable Wallpapers
 Size: 1282992
 MD5sum: 42144A230552D1A899B7D3E8B20B6763
-Filename: ./debs/PwnAppleHat-BGMI-Rootless.deb
+Filename: ./debs/bgmi.deb

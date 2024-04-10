@@ -67,8 +67,83 @@ Depends: mobilesubstrate
 Author: Johnny Waity
 Maintainer: Johnny Waity
 Description: Scrollable Wallpapers
-Size: 934286
-MD5: f50a6501c5ede24ae75f5df5a0c002c8
-SHA1: 9dd157ee4baae113a6c02442a45ebce6c6ea2a31
-SHA256: bb062e792c906e16ec70c7be2a92fb2df8684d692e73ba1bc4a5ba0260a4a587
+Size: 935122
+MD5: c19a83c023e7924452fa875095de6967
+SHA1: ed5c8e934062026342b615933969dfa9e9c9d9c6
+SHA256: 2adc6d59a64bffce38bce2d678bdac55e30a8350197f80a86af1ae2c826d9942
 Filename: ./debs/rootless/com.ioshat.bgmi_3.1_iphoneos-arm64.deb
+
+Package: com.ioshat.global
+Name: PwnAppleHat GL Hack
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Author: Johnny Waity
+Maintainer: Johnny Waity
+Description: Scrollable Wallpapers
+Size: 934762
+MD5: 41fecdf1b7dff4cc892751022c3599ba
+SHA1: ec6e2874c35c11ea3be1c553255766111c5fa701
+SHA256: 571f2dbcdea5dc61c23f2cab58e9c3d51b2f86a47ee7ef963e981320d00444ab
+Filename: ./debs/rootfull/com.ioshat.global_3.1_iphoneos-arm.deb
+
+Package: com.ioshat.korea
+Name: PwnAppleHat KR Hack
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Author: Johnny Waity
+Maintainer: Johnny Waity
+Description: Scrollable Wallpapers
+Size: 936238
+MD5: 66d9049ddd8d163401aec19099ee0d4d
+SHA1: a37cba33e63c1164175e05086b15c6bb3450e153
+SHA256: 70e2adec8b9e6841000be66f1b29ed40f79da11b11d151bf58a4fca46a9a9f23
+Filename: ./debs/rootfull/com.ioshat.korea_3.1_iphoneos-arm.deb
+
+Package: com.ioshat.vietnam
+Name: PwnAppleHat VN Hack
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Author: Johnny Waity
+Maintainer: Johnny Waity
+Description: Scrollable Wallpapers
+Size: 934720
+MD5: 3ac3f6d6f2e024b07b4ca6f1a74182ca
+SHA1: be52edbabf720e414abe60056186142d3e68923b
+SHA256: fa8d262962fdb0ccd52c8a5d0e4a49660d049db29076f2c17ab435bc0e1ef042
+Filename: ./debs/rootfull/com.ioshat.vietnam_3.1_iphoneos-arm.deb
+
+Package: com.ioshat.taiwan
+Name: PwnAppleHat TW Hack
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Author: Johnny Waity
+Maintainer: Johnny Waity
+Description: Scrollable Wallpapers
+Size: 932396
+MD5: 6e443396cf5944582d11faf770b7a5a1
+SHA1: 54a2499bb70860d00145497705aed2428e6da286
+SHA256: d44feabd0ec64d01e682eb30af8a64d675e2bdc8e29ed7402a39aa57a5eb631c
+Filename: ./debs/rootfull/com.ioshat.taiwan_3.1_iphoneos-arm.deb
+
+Package: com.ioshat.bgmi
+Name: PwnAppleHat BGMI Hack
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Author: Johnny Waity
+Maintainer: Johnny Waity
+Description: Scrollable Wallpapers
+Size: 936494
+MD5: 93e7414654ea9bcd11de4a8fe98e858e
+SHA1: 7f1e11f2b354bbf8b70244c8ce6b9a7a3a6a6c5f
+SHA256: 036332674c5712b832cf2391a4ca39ee295c73010583e6854fcff7c3402bed16
+Filename: ./debs/rootfull/com.ioshat.bgmi_3.1_iphoneos-arm.deb

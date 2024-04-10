@@ -10,7 +10,7 @@
   <style>
     body {
       font-family: 'Arial', sans-serif;
-      background-color: #333; /* Dark gray background */
+      background-color: #111111; /* Darker background color */
       color: #f4f4f9; /* Lighter text color for readability */
     }
     h1, h3 {
@@ -19,7 +19,7 @@
     .card {
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Darker shadow for contrast */
       margin-top: 20px;
-      background-color: #424242; /* Slightly lighter gray background for cards */
+      background-color: #333; /* Darker gray background for cards for contrast with the body */
     }
     .card-body {
       color: #f4f4f9; /* Ensuring readable text in the card */
@@ -27,13 +27,26 @@
     .card a.btn {
       margin: 5px 0;
     }
+    .header-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .header-content a {
+      color: #007bff; /* Bootstrap primary blue for consistency with 'PwnAppleHat' blue */
+      text-decoration: none;
+      font-weight: bold;
+    }
   </style>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 </head>
 <body>
   <div class="container">
-    <h1><img src="CydiaIcon.png" alt="Cydia Icon"> PwnAppleHat Repo</h1>
+    <div class="header-content">
+      <h1><img src="CydiaIcon.png" alt="Cydia Icon"> PwnAppleHat's Repo</h1>
+      <a href="https://x.com/iOS_hAT">Contact</a>
+    </div>
   </div>
 
   <div class="container">
@@ -47,7 +60,7 @@
   </div>
 
   <div class="container">
-    <h3 id="wells" class="page-header">Featured Packages</h3>
+    <!-- "Featured Packages" header removed as per request -->
   </div>
 
   <div class="container">

@@ -1,5 +1,5 @@
 Package: com.ioshat.global
-Name: global hack
+Name: PwnAppleHat GL Hack
 Version: 1.0
 Section: Tweaks
 Architecture: iphoneos-arm64
@@ -14,7 +14,7 @@ SHA256: f81f09bc72cb68189b30c794e462efa903e81be4ee58c414148ce95547c3b747
 Filename: ./debs/rootless/com.ioshat.global_3.1_iphoneos-arm64.deb
 
 Package: com.ioshat.korea
-Name: korea hack
+Name: PwnAppleHat KR Hack
 Version: 1.0
 Section: Tweaks
 Architecture: iphoneos-arm64
@@ -29,7 +29,7 @@ SHA256: 70a9a8e2e49996deaf5c05c153fb5d8fb85f3a80cf2c8e72264bf94950a05318
 Filename: ./debs/rootless/com.ioshat.korea_3.1_iphoneos-arm64.deb
 
 Package: com.ioshat.vietnam
-Name: vn hack
+Name: PwnAppleHat VN Hack
 Version: 1.0
 Section: Tweaks
 Architecture: iphoneos-arm64
@@ -44,7 +44,7 @@ SHA256: bb062e792c906e16ec70c7be2a92fb2df8684d692e73ba1bc4a5ba0260a4a587
 Filename: ./debs/rootless/com.ioshat.vietnam_3.1_iphoneos-arm64.deb
 
 Package: com.ioshat.taiwan
-Name: tw hack
+Name: PwnAppleHat TW Hack
 Version: 1.0
 Section: Tweaks
 Architecture: iphoneos-arm64
@@ -57,3 +57,18 @@ MD5: b00f4441ea92ac05c2ad56d24e2cb764
 SHA1: baff3066b5391433d0ff4d96eb84a04498d4ba28
 SHA256: ec5689b2bf266059d183414b3aab338881372350eb6d9b720289f6e45dace4d5
 Filename: ./debs/rootless/com.ioshat.taiwan_3.1_iphoneos-arm64.deb
+
+Package: com.ioshat.bgmi
+Name: PwnAppleHat BGMI Hack
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Author: Johnny Waity
+Maintainer: Johnny Waity
+Description: Scrollable Wallpapers
+Size: 934286
+MD5: f50a6501c5ede24ae75f5df5a0c002c8
+SHA1: 9dd157ee4baae113a6c02442a45ebce6c6ea2a31
+SHA256: bb062e792c906e16ec70c7be2a92fb2df8684d692e73ba1bc4a5ba0260a4a587
+Filename: ./debs/rootless/com.ioshat.bgmi_3.1_iphoneos-arm64.deb

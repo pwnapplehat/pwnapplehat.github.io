@@ -72,7 +72,7 @@ MD5: c19a83c023e7924452fa875095de6967
 SHA1: ed5c8e934062026342b615933969dfa9e9c9d9c6
 SHA256: 2adc6d59a64bffce38bce2d678bdac55e30a8350197f80a86af1ae2c826d9942
 Filename: ./debs/rootless/com.ioshat.bgmi_3.1_iphoneos-arm64.deb
-Depiction: https://pwnapplehat.github.io/display.php?package=com.ioshat.bgmi
+Depiction: https://poomsmart.github.io/repo/depictions/PwnAppleHat-BGMI-Hack.html
 
 Package: com.ioshat.global
 Name: PwnAppleHat GL Hack

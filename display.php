@@ -2,9 +2,9 @@
 $package = $_GET['package']; // Get the package name from the URL query string
 
 // Paths to the XML files and screenshot directory
-$infoPath = "Depictions/$package/info.xml";
-$changelogPath = "Depictions/$package/changelog.xml";
-$screenShotPath = "Depictions/$package/screenshots/";
+$infoPath = "depictions/$package/info.xml";
+$changelogPath = "depictions/$package/changelog.xml";
+$screenShotPath = "depictions/$package/screenshots/";
 
 // Load XML files
 $info = simplexml_load_file($infoPath);

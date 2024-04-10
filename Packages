@@ -1,12 +1,12 @@
 Package: com.ioshat.global
 Name: PwnAppleHat GL Hack
-Version: 1.0
+Version: 3.1
 Section: Tweaks
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Author: Johnny Waity
-Maintainer: Johnny Waity
-Description: Scrollable Wallpapers
+Author: iOS_hAT
+Maintainer: iOS_hAT
+Description: Ultimate hack for PUBG made by iOS_hAT!
 Size: 935382
 MD5: d989b4c6805e0a4942d78133da287538
 SHA1: dfae8f4ef51abd9386397b890775a5925d33a0bf
@@ -15,13 +15,13 @@ Filename: ./debs/rootless/com.ioshat.global_3.1_iphoneos-arm64.deb
 
 Package: com.ioshat.korea
 Name: PwnAppleHat KR Hack
-Version: 1.0
+Version: 3.1
 Section: Tweaks
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Author: Johnny Waity
-Maintainer: Johnny Waity
-Description: Scrollable Wallpapers
+Author: iOS_hAT
+Maintainer: iOS_hAT
+Description: Ultimate hack for PUBG made by iOS_hAT!
 Size: 933734
 MD5: 1478a4052cd5f5f5d8fcaf2cbada7aad
 SHA1: 1658aee9a773fcb5fcceb4dae630a89e8c2a048f
@@ -30,13 +30,13 @@ Filename: ./debs/rootless/com.ioshat.korea_3.1_iphoneos-arm64.deb
 
 Package: com.ioshat.vietnam
 Name: PwnAppleHat VN Hack
-Version: 1.0
+Version: 3.1
 Section: Tweaks
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Author: Johnny Waity
-Maintainer: Johnny Waity
-Description: Scrollable Wallpapers
+Author: iOS_hAT
+Maintainer: iOS_hAT
+Description: Ultimate hack for PUBG made by iOS_hAT!
 Size: 934286
 MD5: f50a6501c5ede24ae75f5df5a0c002c8
 SHA1: 9dd157ee4baae113a6c02442a45ebce6c6ea2a31
@@ -45,13 +45,13 @@ Filename: ./debs/rootless/com.ioshat.vietnam_3.1_iphoneos-arm64.deb
 
 Package: com.ioshat.taiwan
 Name: PwnAppleHat TW Hack
-Version: 1.0
+Version: 3.1
 Section: Tweaks
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Author: Johnny Waity
-Maintainer: Johnny Waity
-Description: Scrollable Wallpapers
+Author: iOS_hAT
+Maintainer: iOS_hAT
+Description: Ultimate hack for PUBG made by iOS_hAT!
 Size: 934358
 MD5: b00f4441ea92ac05c2ad56d24e2cb764
 SHA1: baff3066b5391433d0ff4d96eb84a04498d4ba28
@@ -60,13 +60,13 @@ Filename: ./debs/rootless/com.ioshat.taiwan_3.1_iphoneos-arm64.deb
 
 Package: com.ioshat.bgmi
 Name: PwnAppleHat BGMI Hack
-Version: 1.0
+Version: 3.1
 Section: Tweaks
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
-Author: Johnny Waity
-Maintainer: Johnny Waity
-Description: Scrollable Wallpapers
+Author: iOS_hAT
+Maintainer: iOS_hAT
+Description: Ultimate hack for PUBG made by iOS_hAT!
 Size: 935122
 MD5: c19a83c023e7924452fa875095de6967
 SHA1: ed5c8e934062026342b615933969dfa9e9c9d9c6
@@ -75,13 +75,13 @@ Filename: ./debs/rootless/com.ioshat.bgmi_3.1_iphoneos-arm64.deb
 
 Package: com.ioshat.global
 Name: PwnAppleHat GL Hack
-Version: 1.0
+Version: 3.1
 Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Author: Johnny Waity
-Maintainer: Johnny Waity
-Description: Scrollable Wallpapers
+Author: iOS_hAT
+Maintainer: iOS_hAT
+Description: Ultimate hack for PUBG made by iOS_hAT!
 Size: 934762
 MD5: 41fecdf1b7dff4cc892751022c3599ba
 SHA1: ec6e2874c35c11ea3be1c553255766111c5fa701
@@ -90,13 +90,13 @@ Filename: ./debs/rootfull/com.ioshat.global_3.1_iphoneos-arm.deb
 
 Package: com.ioshat.korea
 Name: PwnAppleHat KR Hack
-Version: 1.0
+Version: 3.1
 Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Author: Johnny Waity
-Maintainer: Johnny Waity
-Description: Scrollable Wallpapers
+Author: iOS_hAT
+Maintainer: iOS_hAT
+Description: Ultimate hack for PUBG made by iOS_hAT!
 Size: 936238
 MD5: 66d9049ddd8d163401aec19099ee0d4d
 SHA1: a37cba33e63c1164175e05086b15c6bb3450e153
@@ -105,13 +105,13 @@ Filename: ./debs/rootfull/com.ioshat.korea_3.1_iphoneos-arm.deb
 
 Package: com.ioshat.vietnam
 Name: PwnAppleHat VN Hack
-Version: 1.0
+Version: 3.1
 Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Author: Johnny Waity
-Maintainer: Johnny Waity
-Description: Scrollable Wallpapers
+Author: iOS_hAT
+Maintainer: iOS_hAT
+Description: Ultimate hack for PUBG made by iOS_hAT!
 Size: 934720
 MD5: 3ac3f6d6f2e024b07b4ca6f1a74182ca
 SHA1: be52edbabf720e414abe60056186142d3e68923b
@@ -120,13 +120,13 @@ Filename: ./debs/rootfull/com.ioshat.vietnam_3.1_iphoneos-arm.deb
 
 Package: com.ioshat.taiwan
 Name: PwnAppleHat TW Hack
-Version: 1.0
+Version: 3.1
 Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Author: Johnny Waity
-Maintainer: Johnny Waity
-Description: Scrollable Wallpapers
+Author: iOS_hAT
+Maintainer: iOS_hAT
+Description: Ultimate hack for PUBG made by iOS_hAT!
 Size: 932396
 MD5: 6e443396cf5944582d11faf770b7a5a1
 SHA1: 54a2499bb70860d00145497705aed2428e6da286
@@ -135,13 +135,13 @@ Filename: ./debs/rootfull/com.ioshat.taiwan_3.1_iphoneos-arm.deb
 
 Package: com.ioshat.bgmi
 Name: PwnAppleHat BGMI Hack
-Version: 1.0
+Version: 3.1
 Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Author: Johnny Waity
-Maintainer: Johnny Waity
-Description: Scrollable Wallpapers
+Author: iOS_hAT
+Maintainer: iOS_hAT
+Description: Ultimate hack for PUBG made by iOS_hAT!
 Size: 936494
 MD5: 93e7414654ea9bcd11de4a8fe98e858e
 SHA1: 7f1e11f2b354bbf8b70244c8ce6b9a7a3a6a6c5f

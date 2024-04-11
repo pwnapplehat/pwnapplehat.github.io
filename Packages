@@ -67,10 +67,10 @@ Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Ultimate hack for PUBG made by iOS_hAT!
-Size: 935166
-MD5: 8af3ce1eeb8aa609c2676f598fd99a32
-SHA1: f2a6cdce7553a03dbab16d76329ec2c062ba9faf
-SHA256: 5875a7716b0c523a0dd838abf7200184101e3f5f55a521e23f6edcac21cf674f
+Size: 934142
+MD5: c1d75fb2bd7f00ea1fbebea88fe05bc5
+SHA1: 147cad6bb986a72f35c41dcac652968a94ac2e73
+SHA256: f85a011f607e0185cbeb6cd0a71db2b154d24323203c74f5c81d637f080d07d4
 Filename: ./debs/rootless/com.ioshat.bgmi_3.1_iphoneos-arm64.deb
 
 Package: com.ioshat.global

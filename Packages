@@ -7,10 +7,10 @@ Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Ultimate hack for PUBG made by iOS_hAT!
-Size: 936490
-MD5: 0b91ff11a198f8cc5870ea8ddbdead56
-SHA1: d8d9b687b449bd12cf7c328c71f391a28a74f573
-SHA256: 5eb9df45c797f75641f9c5ba8138997d842e9a280812d3a01fb07985c9083861
+Size: 936486
+MD5: 9534b8716a18c9c85e0abe2cfbf93da3
+SHA1: b9f81d6ed78ad542ae6413adfcc9b14bc43b8e5e
+SHA256: 9923fcd94bfec25253cd1057a19737b9c9e766a17d0ca89cdea094fda3cf0daf
 Filename: ./debs/rootless/com.ioshat.global_3.1_iphoneos-arm64.deb
 
 Package: com.ioshat.korea
@@ -22,10 +22,10 @@ Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Ultimate hack for PUBG made by iOS_hAT!
-Size: 935168
-MD5: bd107fb27d78f89b8e2583dbdeb6b08c
-SHA1: 4a31c757953ba4722044776464ef8482ddf51edd
-SHA256: 98b48b2e97b62a6091219a7cd95f8cd44885d96dd39e3de2a890ab387ea18a14
+Size: 934672
+MD5: 51be2fccd627795c504e93454e92cb55
+SHA1: 9674407c9a82c8f5511f403f2f372d53449259de
+SHA256: 51eb99b8c645a724a33874e7d7a22ca6c9545f902fa5e727a9cb4f862a5c209a
 Filename: ./debs/rootless/com.ioshat.korea_3.1_iphoneos-arm64.deb
 
 Package: com.ioshat.vietnam
@@ -37,10 +37,10 @@ Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Ultimate hack for PUBG made by iOS_hAT!
-Size: 934760
-MD5: 6e8ee86c675efff4f02d3d7ea189d583
-SHA1: 1af8fa0bd8cf64136c9ced034a52495982e9dfa0
-SHA256: 1f4f710a23e3f85c28b1d6fb5c812cc523d321ad281238d17ea8299c36017b06
+Size: 936992
+MD5: 1c6f7fb7a688cbb756b9801a2e1c8e52
+SHA1: f209f36946af74012ad50e2a32de364181c39fc9
+SHA256: 43c53b3c5e90757c90a52d5d8a7cd12aabb01589ae129f09bcd04eb192871e5a
 Filename: ./debs/rootless/com.ioshat.vietnam_3.1_iphoneos-arm64.deb
 
 Package: com.ioshat.taiwan
@@ -52,10 +52,10 @@ Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Ultimate hack for PUBG made by iOS_hAT!
-Size: 935390
-MD5: ff280aff44fc16538fc1f2622d63bd4f
-SHA1: bc351629f2b29e99f5f293ac20615f625663658c
-SHA256: 3681c0a8c73c2a5de925f730430bd4f22ce98aebad51651ddf94846a733d5758
+Size: 935304
+MD5: aec4bd3481aefe1d4cf22c81b07d41f1
+SHA1: 5b7f4beccce65fb515100b5f51ff90d52b3de270
+SHA256: 2ee53c01bfdd46867dc7cc8764e5fd2d1b2fe2e55350313125c7622db97d8e9e
 Filename: ./debs/rootless/com.ioshat.taiwan_3.1_iphoneos-arm64.deb
 
 Package: com.ioshat.bgmi

@@ -1,3 +1,1 @@
-Made by Reb1us Ultimate.
-
-Checkout my channel "Reb1us Ultimate"
+Made by PwnAppleHat (iOS_hAT)

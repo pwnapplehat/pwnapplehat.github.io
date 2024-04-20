@@ -147,3 +147,18 @@ MD5: 52ac3153dd4b8079ad844c2d3b01bfe0
 SHA1: 1606a7f1d281f02f5431366d1158174a22c2d4b9
 SHA256: 13a3542e6ae0d3aef22cf3caa122e5de8535b40606a4d0033e18434b53436a94
 Filename: ./debs/rootfull/com.ioshat.bgmi_3.1_iphoneos-arm.deb
+
+Package: com.ioshat.codmvn
+Name: PwnAppleHat CODMVN Hack
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Author: iOS_hAT
+Maintainer: iOS_hAT
+Description: Powerfull hack for CODM VN made by @iOS_hAT.
+Size: 93320
+MD5: df50908a2c1a1fb398f6647f7fa6b3da
+SHA1: 99de52368486c7e6fafd33d3ef24fb29599aef81
+SHA256: b084a6966712b8b3390790385acb2c75ef7d5d520ff681430f44bcb8f331e86d
+Filename: ./debs/rootless/com.ioshat.codmvn_1.0_iphoneos-arm64.deb

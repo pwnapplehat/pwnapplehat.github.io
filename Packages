@@ -24,7 +24,7 @@ Size: 937320
 MD5sum: 6ec56dfb4b6af35201f59002b4ecfaec
 SHA1: 0bab4fc0747b8756ad5950746844480466b6f2fa
 SHA256: f1381dc9fc8749e1174b72e7f35b2afeef63a7414b6cbca91318d68d18609aef
-Filename: ./debs/rootless/com.ioshat.global_1.3_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.korea_1.3_iphoneos-arm64.deb
 
 Package: com.ioshat.vietnam
 Name: PwnAppleHat VN Hack
@@ -38,7 +38,7 @@ Size: 935780
 MD5sum: 67db88d4a3a56949346df1f610430077
 SHA1: 1bdfb44da10584ec525fad1a209725f3bd8be1b4
 SHA256: 5324d5c770beaf02ad959ca694fb1b830de6db2a8bdc331808ff08b18f1ddd7d
-Filename: ./debs/rootless/com.ioshat.global_1.3_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.vietnam_1.3_iphoneos-arm64.deb
 
 Package: com.ioshat.taiwan
 Name: PwnAppleHat TW Hack
@@ -52,7 +52,7 @@ Size: 935582
 MD5sum: c2c6f6eeb9ec46f9eee3eaa32896be5f
 SHA1: 9519c9bd4a4dbba55234abba456c9c4e812c1412
 SHA256: af375dc77be0b5ff047bad1008e2eee035c53edd3324fb024985e32f15393abb
-Filename: ./debs/rootless/com.ioshat.global_1.3_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.taiwan_1.3_iphoneos-arm64.deb
 
 Package: com.ioshat.bgmi
 Name: PwnAppleHat BGMI Hack
@@ -66,7 +66,7 @@ Size: 937928
 MD5sum: 1e49985e6cb30f88dc865bffa429071e
 SHA1: 61c9cc08059407a56625528000870f31f40846cb
 SHA256: aed3a57e2a32932591174e9ab3acb6294fc92b56848a95dc121f0af1ca04f745
-Filename: ./debs/rootless/com.ioshat.global_1.3_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.bgmi_1.4_iphoneos-arm64.deb
 
 Package: com.ioshat.global
 Name: PwnAppleHat GL Hack
@@ -140,7 +140,7 @@ Size: 938556
 MD5sum: fd9ff2d8c7db9a827cd4725d45050975
 SHA1: 564a1c37314e60850c04bdfdefb44aacf4cb789e
 SHA256: c6153e0ccbc67b15a303d55638bef44b4f3095cba7dc04d8537bae0814fd2b53
-Filename: ./debs/rootless/com.ioshat.global_1.3_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.bgmi_1.4_iphoneos-arm.deb
 
 Package: com.ioshat.codmvn
 Name: PwnAppleHat CODMVN Hack
@@ -154,4 +154,4 @@ Size: 933202
 MD5sum: df50908a2c1a1fb398f6647f7fa6b3da
 SHA1: 99de52368486c7e6fafd33d3ef24fb29599aef81
 SHA256: b084a6966712b8b3390790385acb2c75ef7d5d520ff681430f44bcb8f331e86d
-Filename: ./debs/rootless/com.ioshat.global_1.3_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.codmvn_1.0_iphoneos-arm64.deb

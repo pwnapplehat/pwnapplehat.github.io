@@ -72,7 +72,8 @@ def update_packages_file():
             package_entry += f"MD5sum: {deb_info.get('MD5', '')}\n"
             package_entry += f"SHA1: {deb_info.get('SHA1', '')}\n"
             package_entry += f"SHA256: {deb_info.get('SHA256', '')}\n"
-            
+            package_entry += f"Section: {deb_info.get('Section', '')}\n"  # Add Section field
+
             # Check architecture and set the Filename path accordingly
             if deb_info.get('Architecture', '') == 'iphoneos-arm64':
                 package_entry += f"Filename: ./debs/rootless/{filename}\n"
@@ -108,7 +109,41 @@ def update_packages_file():
 
                 # Move to the next occurrence
                 start_index += len(package_entry)
-    
+
+    # Look for new .deb files and add entries for them
+    for filename in os.listdir(script_folder):
+        if filename.endswith(".deb"):
+            deb_file = os.path.join(script_folder, filename)
+            deb_info = get_deb_info(deb_file)
+            package_id = deb_info.get('Package', '')
+
+            # If the package bundle ID has not been processed, add a new entry
+            if package_id not in processed_packages:
+                package_entry = f"Package: {deb_info.get('Package', '')}\n"
+                package_entry += f"Name: {deb_info.get('Name', '')}\n"
+                package_entry += f"Version: {deb_info.get('Version', '')}\n"
+                package_entry += f"Architecture: {deb_info.get('Architecture', '')}\n"
+                package_entry += f"Depends: {deb_info.get('Depends', '')}\n"
+                package_entry += f"Author: {deb_info.get('Author', '')}\n"
+                package_entry += f"Maintainer: {deb_info.get('Maintainer', '')}\n"
+                package_entry += f"Description: {deb_info.get('Description', '')}\n"
+                package_entry += f"Size: {deb_info.get('Size', '')}\n"
+                package_entry += f"MD5sum: {deb_info.get('MD5', '')}\n"
+                package_entry += f"SHA1: {deb_info.get('SHA1', '')}\n"
+                package_entry += f"SHA256: {deb_info.get('SHA256', '')}\n"
+                package_entry += f"Section: {deb_info.get('Section', '')}\n"  # Add Section field
+
+                # Check architecture and set the Filename path accordingly
+                if deb_info.get('Architecture', '') == 'iphoneos-arm64':
+                    package_entry += f"Filename: ./debs/rootless/{filename}\n"
+                elif deb_info.get('Architecture', '') == 'iphoneos-arm':
+                    package_entry += f"Filename: ./debs/rootfull/{filename}\n"
+                else:
+                    package_entry += f"Filename: ./debs/{filename}\n"
+
+                # Append the new package entry to the Packages file content
+                packages_content += f"\n{package_entry}"
+
     # Replace occurrences of double line breaks with a single line break
     packages_content = packages_content.replace("\n\n\n", "\n\n")
 

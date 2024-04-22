@@ -10,6 +10,7 @@ Size: 936872
 MD5sum: 0a6dd872ee5d587836965ca2a1a506a0
 SHA1: 70c20497a4e923f9253556cdb85782b1f55f04ff
 SHA256: 6b04c3610835c9075bb791b6b48ee63a703584dd59c46dbd31a14604a17ee660
+Section: Tweaks
 Filename: ./debs/rootless/com.ioshat.global_1.4_iphoneos-arm64.deb
 
 Package: com.ioshat.korea
@@ -24,6 +25,7 @@ Size: 935588
 MD5sum: c2d9996068cf70f6cb4598ed904b2ab1
 SHA1: 889c164febf2618c3981994f82a790389c2708e2
 SHA256: c224fece4d90c3b6ba56894e2faa89f324454b6c4679014c4f014041967f9106
+Section: Tweaks
 Filename: ./debs/rootless/com.ioshat.korea_1.4_iphoneos-arm64.deb
 
 Package: com.ioshat.vietnam
@@ -38,6 +40,7 @@ Size: 937366
 MD5sum: e89961035d831c7edbc4ae7c3a9498e8
 SHA1: 32c1274bfd31fd97516bec9640623b45206a3070
 SHA256: ba96eb4680df0b9d8f0899be4c087aca0988cde6c7906aa67044205503297dcd
+Section: Tweaks
 Filename: ./debs/rootless/com.ioshat.vietnam_1.4_iphoneos-arm64.deb
 
 Package: com.ioshat.taiwan
@@ -52,6 +55,7 @@ Size: 935924
 MD5sum: 5e3f057e00bc625ec415e152133e494c
 SHA1: b7f1b8ffed575139d8cf9d775bc74e128ec4cd0a
 SHA256: 418e3676068bc1adfe9ea26631f24d7144ffb8887ad75d59a7c7ff4467b211f0
+Section: Tweaks
 Filename: ./debs/rootless/com.ioshat.taiwan_1.4_iphoneos-arm64.deb
 
 Package: com.ioshat.bgmi
@@ -66,6 +70,7 @@ Size: 934958
 MD5sum: df6545fc996eebf45842093b5f56da5f
 SHA1: c411a5e4e5ab38a76a242de5cf7d36741c6388fa
 SHA256: d850d8872d0b3448ecb21432aada3e8f88899f2e9cccac69377222c3b7c9ffeb
+Section: Tweaks
 Filename: ./debs/rootless/com.ioshat.bgmi_1.4_iphoneos-arm64.deb
 
 Package: com.ioshat.global
@@ -94,6 +99,7 @@ Size: 935404
 MD5sum: 213f78b241a844ae478df642ec0376ea
 SHA1: 553b67bd898aa609c958b65e332b652b1e503ac5
 SHA256: 87dfaf37b12ac8ca0d6814275d22f1ba705bf2300db2a27ff94db46cb32abf5b
+Section: Tweaks
 Filename: ./debs/rootfull/com.ioshat.korea_1.4_iphoneos-arm.deb
 
 Package: com.ioshat.vietnam
@@ -108,6 +114,7 @@ Size: 938614
 MD5sum: 53e9de278430f60ec1ec6ebfa5fadb1e
 SHA1: 992889b1f32b936749cd7bbbb43b9b0128781944
 SHA256: f0d18b03ffba518cf4f00e94b6ffa90362fe067d98bb3fd86d3c815790f9c1fe
+Section: Tweaks
 Filename: ./debs/rootfull/com.ioshat.vietnam_1.4_iphoneos-arm.deb
 
 Package: com.ioshat.taiwan
@@ -122,6 +129,7 @@ Size: 936814
 MD5sum: 5230d51c81c4d2511e753e28e83c7d22
 SHA1: 33a42bbc8daab55bd0b1953a27f8c0d4a845c57c
 SHA256: ae2a932f0f504f671c5c38f8b04362676709c8475eba5463a48feb97a4947457
+Section: Tweaks
 Filename: ./debs/rootfull/com.ioshat.taiwan_1.4_iphoneos-arm.deb
 
 Package: com.ioshat.bgmi
@@ -136,18 +144,20 @@ Size: 936732
 MD5sum: da6ef76a2cdfc7224ecdec210b583d2d
 SHA1: b551d735559f7559696d520a41b690ebc55bc217
 SHA256: 1a21b8a9c9eb0d6fef7684f6396f2c538eef782ec113cb79a659dce79ee677dc
+Section: Tweaks
 Filename: ./debs/rootfull/com.ioshat.bgmi_1.4_iphoneos-arm.deb
 
 Package: com.ioshat.codmvn
 Name: PwnAppleHat CODMVN Hack
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for Codm made by @iOS_hAT
-Size: 933202
-MD5sum: df50908a2c1a1fb398f6647f7fa6b3da
-SHA1: 99de52368486c7e6fafd33d3ef24fb29599aef81
-SHA256: b084a6966712b8b3390790385acb2c75ef7d5d520ff681430f44bcb8f331e86d
-Filename: ./debs/rootless/com.ioshat.codmvn_1.0_iphoneos-arm64.deb
+Description: Powerfull hack for CODM VN made by @iOS_hAT!
+Size: 929830
+MD5sum: 11dcadb134707e966843f3b430d40a53
+SHA1: 8e5ea771b03745289c5042f3202c954c7ad1ff1e
+SHA256: 9591919e379c15eca80e0cd1194ccbdc549f6695b72afb25850a6c262d228c7f
+Section: Tweaks
+Filename: ./debs/rootless/com.ioshat.codmvn_1.1_iphoneos-arm64.deb

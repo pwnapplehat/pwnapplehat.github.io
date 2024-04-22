@@ -70,59 +70,63 @@ Filename: ./debs/rootless/com.ioshat.bgmi_1.4_iphoneos-arm64.deb
 
 Package: com.ioshat.global
 Name: PwnAppleHat GL Hack
-Version: 1.4
+Version: 3.1
+Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 938574
-MD5sum: af093f863db20c9b3473ab4b880c1ca1
-SHA1: fb3f686700832462536640814ba3efcf8fbb50af
-SHA256: 0bf69a26183e64396085fbf96d863dce3dceb970602c9c8ecfecb365c70b57a0
-Filename: ./debs/rootfull/com.ioshat.global_1.4_iphoneos-arm.deb
+Description: Ultimate hack for PUBG made by iOS_hAT!
+Size: 937096
+MD5: 7cdf1be5988bcb03f9892cad12c57fdf
+SHA1: 3ec847d7c0126df25d56f4569ec312fd5f2ac254
+SHA256: 1a1f2431509054803559f2ed2761ef72048e2c0bf2212e56c8eaa56fa94ccd44
+Filename: ./debs/rootfull/com.ioshat.global_3.1_iphoneos-arm.deb
 
 Package: com.ioshat.korea
 Name: PwnAppleHat KR Hack
-Version: 1.4
+Version: 3.1
+Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 935404
-MD5sum: 213f78b241a844ae478df642ec0376ea
-SHA1: 553b67bd898aa609c958b65e332b652b1e503ac5
-SHA256: 87dfaf37b12ac8ca0d6814275d22f1ba705bf2300db2a27ff94db46cb32abf5b
-Filename: ./debs/rootfull/com.ioshat.korea_1.4_iphoneos-arm.deb
+Description: Ultimate hack for PUBG made by iOS_hAT!
+Size: 937192
+MD5: d1b27ba7205062060470f4d81c6a2a03
+SHA1: 0aa140a94bf6ef5fe1567a42a002362156a9a297
+SHA256: f65fa2be0fe87a1ba2fe8d3d1757dfcde1163720b64f52bd2236818a28cdbe5a
+Filename: ./debs/rootfull/com.ioshat.korea_3.1_iphoneos-arm.deb
 
 Package: com.ioshat.vietnam
 Name: PwnAppleHat VN Hack
-Version: 1.4
+Version: 3.1
+Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 938614
-MD5sum: 53e9de278430f60ec1ec6ebfa5fadb1e
-SHA1: 992889b1f32b936749cd7bbbb43b9b0128781944
-SHA256: f0d18b03ffba518cf4f00e94b6ffa90362fe067d98bb3fd86d3c815790f9c1fe
-Filename: ./debs/rootfull/com.ioshat.vietnam_1.4_iphoneos-arm.deb
+Description: Ultimate hack for PUBG made by iOS_hAT!
+Size: 931982
+MD5: aaae38ffedf1ba51b7747dbc7004e1ea
+SHA1: 5c7bc9266322c917e40f074cdbfdf6878e6a3651
+SHA256: 5aa0ba60a9ce95cfcece3f75ffca0bfa41ac57c1ade419165b62b565dea341b8
+Filename: ./debs/rootfull/com.ioshat.vietnam_3.1_iphoneos-arm.deb
 
 Package: com.ioshat.taiwan
 Name: PwnAppleHat TW Hack
-Version: 1.4
+Version: 3.1
+Section: Tweaks
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 936814
-MD5sum: 5230d51c81c4d2511e753e28e83c7d22
-SHA1: 33a42bbc8daab55bd0b1953a27f8c0d4a845c57c
-SHA256: ae2a932f0f504f671c5c38f8b04362676709c8475eba5463a48feb97a4947457
-Filename: ./debs/rootfull/com.ioshat.taiwan_1.4_iphoneos-arm.deb
+Description: Ultimate hack for PUBG made by iOS_hAT!
+Size: 935032
+MD5: a636a4431d8c1fbf7db4aaec71a8e11b
+SHA1: 3d2a97b2a543fffc78650356c2c95a4ba530d1a5
+SHA256: 77a80c4c278622678eaedac85e0a202cd366c2c0712c996e8733cd0e65a89a14
+Filename: ./debs/rootfull/com.ioshat.taiwan_3.1_iphoneos-arm.deb
 
 Package: com.ioshat.bgmi
 Name: PwnAppleHat BGMI Hack
@@ -132,10 +136,10 @@ Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 936732
-MD5sum: da6ef76a2cdfc7224ecdec210b583d2d
-SHA1: b551d735559f7559696d520a41b690ebc55bc217
-SHA256: 1a21b8a9c9eb0d6fef7684f6396f2c538eef782ec113cb79a659dce79ee677dc
+Size: 938556
+MD5sum: fd9ff2d8c7db9a827cd4725d45050975
+SHA1: 564a1c37314e60850c04bdfdefb44aacf4cb789e
+SHA256: c6153e0ccbc67b15a303d55638bef44b4f3095cba7dc04d8537bae0814fd2b53
 Filename: ./debs/rootfull/com.ioshat.bgmi_1.4_iphoneos-arm.deb
 
 Package: com.ioshat.codmvn

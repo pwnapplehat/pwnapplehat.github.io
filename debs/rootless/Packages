@@ -75,89 +75,90 @@ Filename: ./debs/rootless/com.ioshat.bgmi_1.5_iphoneos-arm64.deb
 
 Package: com.ioshat.global
 Name: PwnAppleHat GL Hack
-Version: 1.4
+Version: 1.5
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 938574
-MD5sum: af093f863db20c9b3473ab4b880c1ca1
-SHA1: fb3f686700832462536640814ba3efcf8fbb50af
-SHA256: 0bf69a26183e64396085fbf96d863dce3dceb970602c9c8ecfecb365c70b57a0
-Filename: ./debs/rootfull/com.ioshat.global_1.4_iphoneos-arm.deb
+Size: 937624
+MD5sum: 54f7a2d5f0b76dec8bbb6b98258f5871
+SHA1: 94a485db3fa95d7e8be93718bfd44f37c6f1e434
+SHA256: 7db163ba0769f782564ec474e3ab51d32d3e2e6df1a022c632b8bf4e63e3993e
+Section: Tweaks
+Filename: ./debs/rootfull/com.ioshat.global_1.5_iphoneos-arm.deb
 
 Package: com.ioshat.korea
 Name: PwnAppleHat KR Hack
-Version: 1.4
+Version: 1.5
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 935404
-MD5sum: 213f78b241a844ae478df642ec0376ea
-SHA1: 553b67bd898aa609c958b65e332b652b1e503ac5
-SHA256: 87dfaf37b12ac8ca0d6814275d22f1ba705bf2300db2a27ff94db46cb32abf5b
+Size: 935786
+MD5sum: cb0e6682f10dd0d4994f58219ca924a2
+SHA1: 74168d6d45939026d404cce6078ffef8ea519595
+SHA256: 7bd9f067f67818f4e754112e464f98d970fdec2a03fdcf4dd2369f38b0b58443
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.korea_1.4_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.korea_1.5_iphoneos-arm.deb
 
 Package: com.ioshat.vietnam
 Name: PwnAppleHat VN Hack
-Version: 1.4
+Version: 1.5
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 938614
-MD5sum: 53e9de278430f60ec1ec6ebfa5fadb1e
-SHA1: 992889b1f32b936749cd7bbbb43b9b0128781944
-SHA256: f0d18b03ffba518cf4f00e94b6ffa90362fe067d98bb3fd86d3c815790f9c1fe
+Size: 936280
+MD5sum: b93cb00183ff4b62cd6bed6f4f980ed5
+SHA1: 83358d901456e7495f05e0c5b4aa8eb70f3b496f
+SHA256: 062a0a4f2854792e27f9cf00131ae624b99c7b924c59da230b98a26a3a3480e4
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.vietnam_1.4_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.vietnam_1.5_iphoneos-arm.deb
 
 Package: com.ioshat.taiwan
 Name: PwnAppleHat TW Hack
-Version: 1.4
+Version: 1.5
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 936814
-MD5sum: 5230d51c81c4d2511e753e28e83c7d22
-SHA1: 33a42bbc8daab55bd0b1953a27f8c0d4a845c57c
-SHA256: ae2a932f0f504f671c5c38f8b04362676709c8475eba5463a48feb97a4947457
+Size: 935550
+MD5sum: 7ab54c442e48077fb19e1b7927664dea
+SHA1: 9b2671f731c0c1e7f464a388b07b1432ddfb7d29
+SHA256: bae359f3a78dba2db3b9594b6c2de64347980097383594572b296e39ac0b2099
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.taiwan_1.4_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.taiwan_1.5_iphoneos-arm.deb
 
 Package: com.ioshat.bgmi
 Name: PwnAppleHat BGMI Hack
-Version: 1.4
+Version: 1.5
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 936732
-MD5sum: da6ef76a2cdfc7224ecdec210b583d2d
-SHA1: b551d735559f7559696d520a41b690ebc55bc217
-SHA256: 1a21b8a9c9eb0d6fef7684f6396f2c538eef782ec113cb79a659dce79ee677dc
+Size: 936896
+MD5sum: dcfa39120499c4d6e01ea2cc24c68243
+SHA1: 1347e160ad868015461c89ff95718fa73cb2cce3
+SHA256: 9d9355bc396904aaf6c1cda5c1aaeec02aef3cc22d91eb6a95651fe1a39e00fd
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.bgmi_1.4_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.bgmi_1.5_iphoneos-arm.deb
 
 Package: com.ioshat.codmvn
 Name: PwnAppleHat CODMVN Hack
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for CODM VN made by @iOS_hAT!
-Size: 929830
-MD5sum: 11dcadb134707e966843f3b430d40a53
-SHA1: 8e5ea771b03745289c5042f3202c954c7ad1ff1e
-SHA256: 9591919e379c15eca80e0cd1194ccbdc549f6695b72afb25850a6c262d228c7f
+Description: Powerfull hack for CODM made by @iOS_hAT!
+Size: 933296
+MD5sum: 25137651ed9e6d646cc72ef2fc91f6fe
+SHA1: 9e0aa91600c1cf92d499e32d003fe5c748c5c571
+SHA256: 6266b9fc255e2bfe92ac4344f4365b29940fd3200ae72bfd372ce9b860da47a5
 Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.codmvn_1.1_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.codmvn_1.2_iphoneos-arm64.deb

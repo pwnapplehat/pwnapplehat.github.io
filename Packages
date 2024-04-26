@@ -11,7 +11,6 @@ MD5sum: 956483ca42ea8b315cd2fced35e98cb8
 SHA1: 928d572d6fcec238ffa6d094d9f602c0dbc8e037
 SHA256: f6545c6592e86f33c783449459789e4dbd562f0c64fb279e62eb530e6d42bcbe
 Section: Tweaks
-Screenshot: https://github.com/pwnapplehat/pwnapplehat.github.io/blob/master/screenshots/pubg.png
 Filename: ./debs/rootless/com.ioshat.global_1.5_iphoneos-arm64.deb
 
 Package: com.ioshat.korea

@@ -208,3 +208,33 @@ SHA256: 17870361fd37a76f4df2804975fab0380309d1a0be71271f0f4fc201321bee71
 Section: Tweaks
 Filename: ./debs/rootfull/com.ioshat.codmkr_1.2_iphoneos-arm.deb
 
+Package: com.zhaoheng.wh
+Name: Slider + Wall Bones
+Version: 3.1
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate (>= 0.9.5000)
+Author: ZhaoHeng
+Maintainer: iOS_hAT
+Description: Wallbones and Slider hack for all PUBG versions! Triple tap with 3 Fingers 3 times!
+Size: 9588
+MD5sum: 84cea941906d47dee83c7685ad9a7d65
+SHA1: e42964062b3debb5b5010cc31b85d701982db315
+SHA256: f26d18c5fcc76bca4c4b0e058e8532a3bab615c26e4ca6c569d85b175f93ec50
+Section: Tweaks
+Filename: ./debs/rootless/com.zhaoheng.wh_3.1_iphoneos-arm64.deb
+
+Package: com.zhaoheng.wh
+Name: Slider + Wall Bones
+Version: 3.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000)
+Author: ZhaoHeng
+Maintainer: iOS_hAT
+Description: Wallbones and Slider hack for all PUBG versions! Triple tap with 3 Fingers 3 times!
+Size: 9448
+MD5sum: 0d79ba1714e6ea7ee48ce3932b60a0b7
+SHA1: 9b2687613958f7247a6796ae7ad66149611240dd
+SHA256: 761ba32853460d7a37653d283363626faf96d68906a26b72703861f6c43b50b5
+Section: Tweaks
+Filename: ./debs/rootfull/com.zhaoheng.wh_3.1_iphoneos-arm.deb
+

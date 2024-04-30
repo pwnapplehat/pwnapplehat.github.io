@@ -1,152 +1,32 @@
-Package: com.ioshat.global
-Name: PwnAppleHat GL Hack
-Version: 1.6
+Package: com.ioshat.pwnapplehat
+Name: PwnAppleHat Mod Menu
+Version: 2.0
 Architecture: iphoneos-arm64
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>= 14.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 937748
-MD5sum: 3e6e1da311c0dba2a38ac58308b3adaa
-SHA1: 81fa3570440e2f3fd178ba4f38f491c65f20e2a5
-SHA256: fd86eb85a647ba8cd6f9dbd2c3393fa46b936dd5fa32af51295a157bfd47d87d
+Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All versions: BGMI, Global, Korea, Taiwan, Vietnam
+Size: 946306
+MD5sum: 646a9c70521c8f7ff218d1829a811ef8
+SHA1: 861b3669649562e9f2291f4818ad96d0a4fa2109
+SHA256: e0a18943064da82c357fbbe0ec4a97886b1634330150fa2c0e79cc5c5e3c756c
 Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.global_1.6_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.pwnapplehat_2.0_iphoneos-arm64.deb
 
-Package: com.ioshat.korea
-Name: PwnAppleHat KR Hack
-Version: 1.6
-Architecture: iphoneos-arm64
-Depends: mobilesubstrate
-Author: iOS_hAT
-Maintainer: iOS_hAT
-Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 936824
-MD5sum: ab6911199daf55a106cd204b18776bc0
-SHA1: 6c237ada09ec6a1b677a6223e253ec0e049efe6d
-SHA256: 2390e424f5437be9ec2cc5be3f57277e50d1a68af349fd3e24fc40b6300a56bb
-Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.korea_1.6_iphoneos-arm64.deb
-
-Package: com.ioshat.vietnam
-Name: PwnAppleHat VN Hack
-Version: 1.6
-Architecture: iphoneos-arm64
-Depends: mobilesubstrate
-Author: iOS_hAT
-Maintainer: iOS_hAT
-Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 938956
-MD5sum: fc5cf2c8cf92706c8a24bb14046c81bf
-SHA1: 96842559f1592e0a437566e845872dd6a2fde651
-SHA256: b7e0bfe213589901513ad6ff310b7217301ffdd1f4bbc5e69f2e0419c9a808cb
-Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.vietnam_1.6_iphoneos-arm64.deb
-
-Package: com.ioshat.taiwan
-Name: PwnAppleHat TW Hack
-Version: 1.6
-Architecture: iphoneos-arm64
-Depends: mobilesubstrate
-Author: iOS_hAT
-Maintainer: iOS_hAT
-Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 935812
-MD5sum: da7c70cfa825d1250248862ce34f0962
-SHA1: e29a22f820f7bf6d717a59f879f1b49be3910f40
-SHA256: d95a8e3577359a625adb1ca341fb8839bcca420a0312087b3772741b47092f90
-Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.taiwan_1.6_iphoneos-arm64.deb
-
-Package: com.ioshat.bgmi
-Name: PwnAppleHat BGMI Hack
-Version: 1.6
-Architecture: iphoneos-arm64
-Depends: mobilesubstrate
-Author: iOS_hAT
-Maintainer: iOS_hAT
-Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 934198
-MD5sum: 9c30d4be229853c9ba7417e40faf4285
-SHA1: aae5495a28c82357e6cee688778013fa5734d416
-SHA256: 8c80c2fccd93d388f55e7307410232f9b86824543a899eac9ba05f46276e21db
-Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.bgmi_1.6_iphoneos-arm64.deb
-
-Package: com.ioshat.global
-Name: PwnAppleHat GL Hack
-Version: 1.6
+Package: com.ioshat.pwnapplehat
+Name: PwnAppleHat Mod Menu
+Version: 2.0
 Architecture: iphoneos-arm
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>= 14.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 937634
-MD5sum: 5074b3fed21fa1917159f57554d086c6
-SHA1: aa2bb78b8fc30a4b46c9d4083578ada471e390db
-SHA256: 34cf6bb1313af563b22c05fcb9cd64ccf155f2a4d410eb4b9629a11ab8e702b7
+Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All versions: BGMI, Global, Korea, Taiwan, Vietnam
+Size: 945280
+MD5sum: 77522cfcc4aab9900e2cb2c9f75e0f4c
+SHA1: 221a4489e9a0683bbc135477068fe7bfab195170
+SHA256: 2d2d786a954bdb0cc887652dbe8bb50898ca43aaf37b23353bbd5a0e62b52a42
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.global_1.6_iphoneos-arm.deb
-
-Package: com.ioshat.korea
-Name: PwnAppleHat KR Hack
-Version: 1.6
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Author: iOS_hAT
-Maintainer: iOS_hAT
-Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 937248
-MD5sum: 1b15ea1919e7f50c791d695c3deb780e
-SHA1: 15581b046e3dd447d88c589eab324ff04e8c3b72
-SHA256: c06f502dbfad672a30d793422f654c62a0f2e7d84a482d2b2d1266e96ce9cab9
-Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.korea_1.6_iphoneos-arm.deb
-
-Package: com.ioshat.vietnam
-Name: PwnAppleHat VN Hack
-Version: 1.6
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Author: iOS_hAT
-Maintainer: iOS_hAT
-Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 932632
-MD5sum: f353146d031ade370ee4853c7ea6580f
-SHA1: 439e4263c835b5ebe2b625e38344626b2f24da20
-SHA256: 98528d3b3fc92695b9fbecd5803cbf914fc218bc04ae94858689f81a692a83d8
-Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.vietnam_1.6_iphoneos-arm.deb
-
-Package: com.ioshat.taiwan
-Name: PwnAppleHat TW Hack
-Version: 1.6
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Author: iOS_hAT
-Maintainer: iOS_hAT
-Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 934494
-MD5sum: 7e2cd1b6d4864fd4d07f2c608584af9f
-SHA1: 8a73bcde1e50601baed4014dcca7d715ae699897
-SHA256: 3ee2ffbe524cd64989efc987785a5ffdb622ddf73bb65de009476bc78a6a4e56
-Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.taiwan_1.6_iphoneos-arm.deb
-
-Package: com.ioshat.bgmi
-Name: PwnAppleHat BGMI Hack
-Version: 1.6
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Author: iOS_hAT
-Maintainer: iOS_hAT
-Description: Powerfull hack for Pubg made by @iOS_hAT
-Size: 937448
-MD5sum: 4ad7aad1e7a2b8adeb916231c49666e5
-SHA1: 56b895ebcbe36ca2ede2ce37a3887a0dfb848f48
-SHA256: 739240689d27333397d4ac31d00813755559d3ab92c1a72a8a0e1958ce8cfe50
-Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.bgmi_1.6_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.pwnapplehat_2.0_iphoneos-arm.deb
 
 Package: com.ioshat.codmvn
 Name: PwnAppleHat CODMVN Hack
@@ -208,33 +88,33 @@ SHA256: 17870361fd37a76f4df2804975fab0380309d1a0be71271f0f4fc201321bee71
 Section: Tweaks
 Filename: ./debs/rootfull/com.ioshat.codmkr_1.2_iphoneos-arm.deb
 
-Package: com.zhaoheng.wh
-Name: Slider + Wall Bones
+Package: com.boyka.igg
+Name: IGG MEMU
 Version: 3.1
 Architecture: iphoneos-arm64
-Depends: mobilesubstrate (>= 0.9.5000)
-Author: ZhaoHeng
-Maintainer: iOS_hAT
-Description: Wallbones and Slider hack for all PUBG versions! Triple tap with 3 Fingers 3 times!
-Size: 9588
-MD5sum: 84cea941906d47dee83c7685ad9a7d65
-SHA1: e42964062b3debb5b5010cc31b85d701982db315
-SHA256: f26d18c5fcc76bca4c4b0e058e8532a3bab615c26e4ca6c569d85b175f93ec50
+Depends: mobilesubstrate
+Author: t.me/boyka_ios
+Maintainer: boykaios
+Description: 
+Size: 1934728
+MD5sum: 9fa152d1f62c962eb24374707e7e4ebf
+SHA1: 742510603100bd7027d013db15e92014e2efca12
+SHA256: 430cf0d7013e64f3232aada328c9de1a860cffb4c8bd02cc2c2d60e52651340f
 Section: Tweaks
-Filename: ./debs/rootless/com.zhaoheng.wh_3.1_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.boyka.igg_3.1_iphoneos-arm64.deb
 
-Package: com.zhaoheng.wh
-Name: Slider + Wall Bones
+Package: com.boyka.igg
+Name: IGG MEMU
 Version: 3.1
 Architecture: iphoneos-arm
-Depends: mobilesubstrate (>= 0.9.5000)
-Author: ZhaoHeng
-Maintainer: iOS_hAT
-Description: Wallbones and Slider hack for all PUBG versions! Triple tap with 3 Fingers 3 times!
-Size: 9448
-MD5sum: 0d79ba1714e6ea7ee48ce3932b60a0b7
-SHA1: 9b2687613958f7247a6796ae7ad66149611240dd
-SHA256: 761ba32853460d7a37653d283363626faf96d68906a26b72703861f6c43b50b5
+Depends: mobilesubstrate
+Author: t.me/boyka_ios
+Maintainer: boykaios
+Description: 
+Size: 1937768
+MD5sum: ed5302252d8ecb0577bc8ff157767338
+SHA1: 8e9f37087cadb5753bf80adfc57091b14af21e70
+SHA256: 44933b3143c8be183a9c471d9c9d7606531f48a1fd486c6ec8db6f089a1b240c
 Section: Tweaks
-Filename: ./debs/rootfull/com.zhaoheng.wh_3.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.boyka.igg_3.1_iphoneos-arm.deb
 

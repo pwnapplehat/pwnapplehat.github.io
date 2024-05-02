@@ -1,32 +1,32 @@
 Package: com.ioshat.pwnapplehat
 Name: PwnAppleHat Mod Menu
-Version: 2.0
+Version: 2.01
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, firmware (>= 14.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All versions: BGMI, Global, Korea, Taiwan, Vietnam
-Size: 946306
-MD5sum: 646a9c70521c8f7ff218d1829a811ef8
-SHA1: 861b3669649562e9f2291f4818ad96d0a4fa2109
-SHA256: e0a18943064da82c357fbbe0ec4a97886b1634330150fa2c0e79cc5c5e3c756c
+Size: 941714
+MD5sum: c92cc1044c99da925ef5b85616e60317
+SHA1: 66387b9662cbf0edb894b53872a38421e2456aa1
+SHA256: 59eaf959806cea43f65c662df799595abdf33aa688eb855ff27903b39e7a807a
 Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.pwnapplehat_2.0_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.pwnapplehat_2.01_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehat
 Name: PwnAppleHat Mod Menu
-Version: 2.0
+Version: 2.01
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 14.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All versions: BGMI, Global, Korea, Taiwan, Vietnam
-Size: 945280
-MD5sum: 77522cfcc4aab9900e2cb2c9f75e0f4c
-SHA1: 221a4489e9a0683bbc135477068fe7bfab195170
-SHA256: 2d2d786a954bdb0cc887652dbe8bb50898ca43aaf37b23353bbd5a0e62b52a42
+Size: 946052
+MD5sum: 2d431730f6af5a9d0603b11f4e6e2ea8
+SHA1: 2fbf0cfbe444c60cc3321ed7c4ea2b14000dde3e
+SHA256: 371083063eee608bfa16eca37703d8bf880599b583a24dfe7e45266c656356c8
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.pwnapplehat_2.0_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.pwnapplehat_2.01_iphoneos-arm.deb
 
 Package: com.ioshat.codmvn
 Name: PwnAppleHat CODMVN Hack

@@ -1,32 +1,32 @@
 Package: com.ioshat.pwnapplehat
 Name: PwnAppleHat Mod Menu
-Version: 2.4
+Version: 2.5
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, firmware (>= 14.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions for 3.2: BGMI, Global, Korea, Taiwan, Vietnam
-Size: 950034
-MD5sum: db635d7ea569f4588e1fcd7b2cf477b9
-SHA1: 3d927622403f2f4265d3372b48fb2b072d936667
-SHA256: 403ba78d93d805fe2bef7613a811af9bb064f3a1b6a3b0005c0d7847a55f802b
+Size: 951976
+MD5sum: be8dc3a85e59611036ab9ae1bbff38e1
+SHA1: 412d070260a332e78e037c668891073a28e34cf7
+SHA256: fda616202f75ee9585ee4d89fde5ee200d99cad60d1c995f060d1d2f611203c4
 Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.pwnapplehat_2.4_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.pwnapplehat_2.5_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehat
 Name: PwnAppleHat Mod Menu
-Version: 2.3
+Version: 2.4
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 14.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions for 3.2: BGMI, Global, Korea, Taiwan, Vietnam
-Size: 949888
-MD5sum: 5964d7ddda44e45b2ad7c5983a906d57
-SHA1: 32623693613b5c22906c7edfa87e6553c32abcde
-SHA256: c0d7f8228cc89abe1e9c9a6886cb5641b3e17ca040245d00c40af374270fa20a
+Size: 950302
+MD5sum: 7a8046af2d2736fffe3267c2470c690c
+SHA1: ec18054736a679dee9a80d71496498c2ba31b7c8
+SHA256: 89b618937cfa5e06b32f839cd35e649f5d4b60a9c318bbb7da23305d45d5fcf4
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.pwnapplehat_2.3_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.pwnapplehat_2.4_iphoneos-arm.deb
 
 Package: com.ioshat.codmvn
 Name: PwnAppleHat CODMVN Hack
@@ -87,34 +87,4 @@ SHA1: a5e95285a391682e6abb96a18de4f2bb235faf59
 SHA256: 17870361fd37a76f4df2804975fab0380309d1a0be71271f0f4fc201321bee71
 Section: Tweaks
 Filename: ./debs/rootfull/com.ioshat.codmkr_1.2_iphoneos-arm.deb
-
-Package: com.boyka.igg
-Name: IGG MEMU
-Version: 3.1
-Architecture: iphoneos-arm64
-Depends: mobilesubstrate
-Author: t.me/boyka_ios
-Maintainer: boykaios
-Description: 
-Size: 1934728
-MD5sum: 9fa152d1f62c962eb24374707e7e4ebf
-SHA1: 742510603100bd7027d013db15e92014e2efca12
-SHA256: 430cf0d7013e64f3232aada328c9de1a860cffb4c8bd02cc2c2d60e52651340f
-Section: Tweaks
-Filename: ./debs/rootless/com.boyka.igg_3.1_iphoneos-arm64.deb
-
-Package: com.boyka.igg
-Name: IGG MEMU
-Version: 3.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Author: t.me/boyka_ios
-Maintainer: boykaios
-Description: 
-Size: 1937768
-MD5sum: ed5302252d8ecb0577bc8ff157767338
-SHA1: 8e9f37087cadb5753bf80adfc57091b14af21e70
-SHA256: 44933b3143c8be183a9c471d9c9d7606531f48a1fd486c6ec8db6f089a1b240c
-Section: Tweaks
-Filename: ./debs/rootfull/com.boyka.igg_3.1_iphoneos-arm.deb
 

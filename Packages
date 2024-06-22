@@ -28,63 +28,32 @@ SHA256: b2749fba8eeaaaa94b5dffdfb539593d391d3b2578441f6d7896a9d599fc38a9
 Section: Tweaks
 Filename: ./debs/rootfull/com.ioshat.pwnapplehat_3.1_iphoneos-arm.deb
 
-Package: com.ioshat.codmvn
-Name: PwnAppleHat CODMVN Hack
-Version: 1.2
+Package: com.ioshat.pwnapplehatcodm
+Name: PwnAppleHat CODM
+Version: 2.0
 Architecture: iphoneos-arm64
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>= 14.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for CODM made by @iOS_hAT!
-Size: 933296
-MD5sum: 25137651ed9e6d646cc72ef2fc91f6fe
-SHA1: 9e0aa91600c1cf92d499e32d003fe5c748c5c571
-SHA256: 6266b9fc255e2bfe92ac4344f4365b29940fd3200ae72bfd372ce9b860da47a5
+Description: Powerfull hack for CODM VN/KR made by @iOS_hAT! Supports ONLY VN & KR codm.
+Size: 930220
+MD5sum: 7c87161dd59dc001e8306d30833f0459
+SHA1: 57a73ff9ab763800002946a6483ec126d40a5852
+SHA256: 0ea64349a00eefa1d0ecfd114eae4d0090f79c5b2632de57803cdb09a4bfd6b6
 Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.codmvn_1.2_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.pwnapplehatcodm_2.0_iphoneos-arm64.deb
 
-Package: com.ioshat.codmvn
-Name: PwnAppleHat CODMVN Hack
-Version: 1.2
+Package: com.ioshat.pwnapplehatcodm
+Name: PwnAppleHat CODM
+Version: 2.0
 Architecture: iphoneos-arm
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>= 14.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for CODM made by @iOS_hAT!
-Size: 934360
-MD5sum: 09f0e87b2979a14a8616d0a63d8d9ec8
-SHA1: dc1a9a3c539a534879dee26c9775055995fe4fd1
-SHA256: 8f91736342bb0033488ab3553b0daed868efeabb732fcd7c34ca36c503991e5d
+Description: Powerfull hack for CODM VN/KR made by @iOS_hAT! Supports ONLY VN & KR codm.
+Size: 930788
+MD5sum: f4120167a6101e95d9ad99861a97cb12
+SHA1: e353043480aa23bc1376c38a8fdcc471996aed8f
+SHA256: 2c6458818e53607951c307dedbeca0f1923053864f994bab35bbd08e4b97df52
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.codmvn_1.2_iphoneos-arm.deb
-
-Package: com.ioshat.codmkr
-Name: PwnAppleHat CODMKR Hack
-Version: 1.2
-Architecture: iphoneos-arm64
-Depends: mobilesubstrate
-Author: iOS_hAT
-Maintainer: iOS_hAT
-Description: Powerfull hack for CODM made by @iOS_hAT!
-Size: 934980
-MD5sum: fc0ad93508daad402131dd29861f0d83
-SHA1: 4723a4cdedbadbafed633407fc68689b0850aba2
-SHA256: 8cc7da91ade8f7c4dab6ba0a1ed77fe027ea0c1ecd1d86199681253950f84c83
-Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.codmkr_1.2_iphoneos-arm64.deb
-
-Package: com.ioshat.codmkr
-Name: PwnAppleHat CODMKR Hack
-Version: 1.2
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Author: iOS_hAT
-Maintainer: iOS_hAT
-Description: Powerfull hack for CODM made by @iOS_hAT!
-Size: 937946
-MD5sum: 40fa14e073ca74cd4b35c1d6b1af38e0
-SHA1: a5e95285a391682e6abb96a18de4f2bb235faf59
-SHA256: 17870361fd37a76f4df2804975fab0380309d1a0be71271f0f4fc201321bee71
-Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.codmkr_1.2_iphoneos-arm.deb
-
+Filename: ./debs/rootfull/com.ioshat.pwnapplehatcodm_2.0_iphoneos-arm.deb

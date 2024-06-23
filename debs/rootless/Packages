@@ -1,17 +1,17 @@
 Package: com.ioshat.pwnapplehat
 Name: PwnAppleHat Mod Menu
-Version: 3.1
+Version: 3.2
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, firmware (>= 14.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions for 3.2: BGMI, Global, Korea, Taiwan, Vietnam
-Size: 943090
-MD5sum: 4d1c25ee4bbb642c0a847632a04bfc48
-SHA1: 2950b9646373f71df827cd55ccf81bfa569cb81c
-SHA256: ffb5c57cec3b9fa080619a43a4197f034e9f4f5b14f1ba5e84a26572c3cec577
+Size: 944824
+MD5sum: cfc981847c840aadcc6f19a5234aa81a
+SHA1: fbeec6a01adf8f68e703e8f8e873533d27604ca8
+SHA256: 8e733e7d147c3d738d7a9b374c0448081d88adc52e1d0db7dd21209d8f47b08a
 Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.pwnapplehat_3.1_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.pwnapplehat_3.2_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehat
 Name: PwnAppleHat Mod Menu
@@ -44,16 +44,16 @@ Section: Tweaks
 Filename: ./debs/rootless/com.ioshat.pwnapplehatcodm_2.0_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehatcodm
-Name: PwnAppleHat CODMVN Hack
-Version: 1.2
+Name: PwnAppleHat CODM
+Version: 2.0
 Architecture: iphoneos-arm
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>= 14.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for CODM made by @iOS_hAT!
-Size: 934360
-MD5sum: 09f0e87b2979a14a8616d0a63d8d9ec8
-SHA1: dc1a9a3c539a534879dee26c9775055995fe4fd1
-SHA256: 8f91736342bb0033488ab3553b0daed868efeabb732fcd7c34ca36c503991e5d
+Description: Powerfull hack for CODM VN/KR made by @iOS_hAT! Supports ONLY VN & KR codm.
+Size: 930788
+MD5sum: f4120167a6101e95d9ad99861a97cb12
+SHA1: e353043480aa23bc1376c38a8fdcc471996aed8f
+SHA256: 2c6458818e53607951c307dedbeca0f1923053864f994bab35bbd08e4b97df52
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.codmvn_1.2_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.pwnapplehatcodm_2.0_iphoneos-arm.deb

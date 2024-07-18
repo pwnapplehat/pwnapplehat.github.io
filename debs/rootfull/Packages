@@ -15,18 +15,18 @@ Filename: ./debs/rootless/com.ioshat.pwnapplehatpubg_3.3.5_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 3.3.4
+Version: 3.3.5
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 14.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions of 3.3: BGMI, Global, Korea, Taiwan, Vietnam
-Size: 942628
-MD5sum: b55b0dfd24a6ccfd9e3c5019cd90ec21
-SHA1: 0db75b77c104ddefbf3a09db75b3f26398dfd346
-SHA256: bceb8d64a0deb949c5688cf979eacc012b4d8976b1af9720eb1432818854b168
+Size: 941956
+MD5sum: ddada9ea21bc9299502323499d9bb2a1
+SHA1: 019630668d842e154b84a74c5d87fcab52fe9ae6
+SHA256: 3e1db82ea5a3ae1757ed576cf211a4ad75a25932c32b0c542a7e4d60346b45ec
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_3.3.4_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_3.3.5_iphoneos-arm.deb
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG

@@ -45,45 +45,45 @@ Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.3.8_iphoneos-arm64e.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM-VNG
-Version: 2.3
+Version: 2.3.1
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: @iOS_hAT
 Maintainer: @iOS_hAT
 Description: Powerfull hack for CODM VNG made by @iOS_hAT! Supports ONLY VN CODM.
-Size: 932842
-MD5sum: d37eefbf2c9dddc633ef7399da6eca5d
-SHA1: 2534f70a796ad2e54305717b45807423b76da47a
-SHA256: 8ee59142996a617e6d9fbd4e6979b7f024da4b6837a18bbe021c4e3f9062567b
+Size: 932844
+MD5sum: 7dfb9b387a87db80d9c54f80537410b0
+SHA1: 952007a051adbfb75712b097e8f2038cbf9de750
+SHA256: 649e6898ee6325eea5b6bf272b779da80d37d6940c5a3e19c1bc5a0553fc0865
 Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.pwnapplehatcodm_2.3_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.pwnapplehatcodm_2.3.1_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM-VNG
-Version: 2.3
+Version: 2.3.1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: @iOS_hAT
 Maintainer: @iOS_hAT
 Description: Powerfull hack for CODM VNG made by @iOS_hAT! Supports ONLY VN CODM.
-Size: 932232
-MD5sum: 9803aec5f17a408f69b5680af5b558a7
-SHA1: b4748731644743e2861436802f4bbfdf295d15df
-SHA256: 0d16dcf0717fcee92aba2bec87424e90bcb81674bd57888a0bde726bee39be2f
+Size: 933460
+MD5sum: 60bed4a9839ab431158af53a0d08ed9a
+SHA1: 17671aa8581173010d90754dad21706397ea0882
+SHA256: 0edce92f7a6f41dd37462768f45b1f8cb5ffd0d6a92b72767de5a3cd607ce8f7
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.pwnapplehatcodm_2.3_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.pwnapplehatcodm_2.3.1_iphoneos-arm.deb
 
 Package: com.ioshat.pwnapplehatcodm
-Name: PwnAppleHat CODM
-Version: 2.2
+Name: PwnAppleHat CODM-VNG
+Version: 2.3
 Architecture: iphoneos-arm64e
-Depends: mobilesubstrate, firmware (>= 14.0)
-Author: iOS_hAT
-Maintainer: iOS_hAT
-Description: Powerfull hack for CODM VN/KR made by @iOS_hAT! Supports ONLY VN & KR codm.
-Size: 930906
-MD5sum: 23630099048ecfcc66422af02b141324
-SHA1: b2db7bef087dfea13c4c3ac256c2cac9457886be
-SHA256: a46f68b0d9e8aaa61fc56fe8729cd96912d0c0ff4831be9bd8c2881fd94bc6f9
+Depends: mobilesubstrate, firmware (>= 13.0)
+Author: @iOS_hAT
+Maintainer: @iOS_hAT
+Description: Powerfull hack for CODM VNG made by @iOS_hAT! Supports ONLY VN CODM.
+Size: 933954
+MD5sum: ea28f65adb389e5521a95aef911d50ad
+SHA1: dfc380dfb46a3a24037247e91b52856ade7885b0
+SHA256: 18316868cdd64817ca87c680139f2512d3fd79a6f82b8a38704974c7bbd8e7dc
 Section: Tweaks
-Filename: ./debs/roothide/com.ioshat.pwnapplehatcodm_2.2_iphoneos-arm64e.deb
+Filename: ./debs/roothide/com.ioshat.pwnapplehatcodm_2.3_iphoneos-arm64e.deb

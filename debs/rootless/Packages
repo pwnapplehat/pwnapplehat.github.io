@@ -1,17 +1,17 @@
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 3.3.8
+Version: 3.4
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions of 3.3: BGMI, Global, Korea, Taiwan, Vietnam
-Size: 944760
-MD5sum: 1f679b91f30f5398d1256d3d17984a0c
-SHA1: 1abf875f1283d6455c970c72644aa9afc188829e
-SHA256: a3901363b83b1d7e04da94e5fec92abc4f731dbf97a924ac8aea1ba833142705
+Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions of 3.4: BGMI, Global, Korea, Taiwan, Vietnam
+Size: 941840
+MD5sum: 1d1590afeebb96939e649bfccbee4081
+SHA1: 5245ec8dba4c47dabce87d7b77292253b29ab6ac
+SHA256: 2e6c3d375075a7d364b3a8873373e03fda407bce90f115c77368269e36c3bd28
 Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.pwnapplehatpubg_3.3.8_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.pwnapplehatpubg_3.4_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
@@ -60,30 +60,30 @@ Filename: ./debs/rootless/com.ioshat.pwnapplehatcodm_2.3.1_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM-VNG
-Version: 2.3
+Version: 2.3.1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: @iOS_hAT
 Maintainer: @iOS_hAT
 Description: Powerfull hack for CODM VNG made by @iOS_hAT! Supports ONLY VN CODM.
-Size: 932232
-MD5sum: 9803aec5f17a408f69b5680af5b558a7
-SHA1: b4748731644743e2861436802f4bbfdf295d15df
-SHA256: 0d16dcf0717fcee92aba2bec87424e90bcb81674bd57888a0bde726bee39be2f
+Size: 933460
+MD5sum: 60bed4a9839ab431158af53a0d08ed9a
+SHA1: 17671aa8581173010d90754dad21706397ea0882
+SHA256: 0edce92f7a6f41dd37462768f45b1f8cb5ffd0d6a92b72767de5a3cd607ce8f7
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.pwnapplehatcodm_2.3_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.pwnapplehatcodm_2.3.1_iphoneos-arm.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM-VNG
-Version: 2.3
+Version: 2.3.1
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: @iOS_hAT
 Maintainer: @iOS_hAT
 Description: Powerfull hack for CODM VNG made by @iOS_hAT! Supports ONLY VN CODM.
-Size: 933954
-MD5sum: ea28f65adb389e5521a95aef911d50ad
-SHA1: dfc380dfb46a3a24037247e91b52856ade7885b0
-SHA256: 18316868cdd64817ca87c680139f2512d3fd79a6f82b8a38704974c7bbd8e7dc
+Size: 932004
+MD5sum: 239787af9257014c360a11b16627445c
+SHA1: 15994a34c97ead5921856a9a62c5efe18c47451f
+SHA256: 02e8402b38324ef662ee155551e63b2f2bc6f47062c843fc4377c0dd192328e3
 Section: Tweaks
-Filename: ./debs/roothide/com.ioshat.pwnapplehatcodm_2.3_iphoneos-arm64e.deb
+Filename: ./debs/roothide/com.ioshat.pwnapplehatcodm_2.3.1_iphoneos-arm64e.deb

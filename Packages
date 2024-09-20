@@ -1,47 +1,47 @@
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 3.4
+Version: 3.4.1
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions of 3.4: BGMI, Global, Korea, Taiwan, Vietnam
-Size: 941840
-MD5sum: 1d1590afeebb96939e649bfccbee4081
-SHA1: 5245ec8dba4c47dabce87d7b77292253b29ab6ac
-SHA256: 2e6c3d375075a7d364b3a8873373e03fda407bce90f115c77368269e36c3bd28
+Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions of 3.4: BGMI, Global, Korea, Taiwan, Vietnam.
+Size: 944860
+MD5sum: 0264d40e6d6cf2d62beaac29a70aa3e1
+SHA1: e877d55950f9f1a42c68d3ca93afdce11ff55795
+SHA256: da3940f1444cb85723cff894041b8e1fa70dfc098d031e0f794a3dc629bbcdc5
 Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.pwnapplehatpubg_3.4_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.pwnapplehatpubg_3.4.1_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 3.4
+Version: 3.4.1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions of 3.4: BGMI, Global, Korea, Taiwan, Vietnam
-Size: 943898
-MD5sum: e92c7c7922405f375a383c4c03870380
-SHA1: 5424f15938440abc44b3ea2437817b6aeead2a0c
-SHA256: 216cb557b1ef4bc4c0c71b1684b850366c47d5279f6d422008da80b540570c60
+Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions of 3.4: BGMI, Global, Korea, Taiwan, Vietnam.
+Size: 945362
+MD5sum: 381e085cf46dca675645f7fb327292e4
+SHA1: b44478bcd2b09e708eb4e0c58b7b47f745dcce42
+SHA256: b19b4257641c674850afae161b0b92d9fc6dbdd30c449b42a6e50581f18677e4
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_3.4_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_3.4.1_iphoneos-arm.deb
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 3.4
+Version: 3.4.1
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions of 3.4: BGMI, Global, Korea, Taiwan, Vietnam
-Size: 944042
-MD5sum: 0a57fcff6c5ac9d1a02d34388c3e3dfe
-SHA1: c879f684ecbff0a4d8cb99591c0555691172b353
-SHA256: 9b2d81865342b7a8ebdfa42eb3cd652e92f0c2ac2014d3a5ae623b6d30467de1
+Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions of 3.4: BGMI, Global, Korea, Taiwan, Vietnam.
+Size: 943900
+MD5sum: 3b348d5ddaf1d38ff54c7cc4ad6e75bd
+SHA1: c338f910dc3d7182ca8b63378ff21fe3624b7846
+SHA256: 31836518c9e3cf6f3696e5d14ff05d52d71e983c5e9057e25a93209764093910
 Section: Tweaks
-Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.4_iphoneos-arm64e.deb
+Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.4.1_iphoneos-arm64e.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM

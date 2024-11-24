@@ -15,33 +15,33 @@ Filename: ./debs/rootless/com.ioshat.pwnapplehatpubg_3.4.1_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 3.4
+Version: 3.5
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions of 3.4: BGMI, Global, Korea, Taiwan, Vietnam
-Size: 943898
-MD5sum: e92c7c7922405f375a383c4c03870380
-SHA1: 5424f15938440abc44b3ea2437817b6aeead2a0c
-SHA256: 216cb557b1ef4bc4c0c71b1684b850366c47d5279f6d422008da80b540570c60
+Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions of 3.5: BGMI, Global, Korea, Taiwan, Vietnam.
+Size: 979918
+MD5sum: 3b3859d2e2401f86ead068edc410c26a
+SHA1: 7f786cf5cf64b3325f815ca8c76284c789581905
+SHA256: 6a8a513232bc00cecc33f4cca04ac5d6bd70a94cbdcb3a3f1b2789d70810acc1
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_3.4_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_3.5_iphoneos-arm.deb
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 3.4
+Version: 3.4.1
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions of 3.4: BGMI, Global, Korea, Taiwan, Vietnam
-Size: 944042
-MD5sum: 0a57fcff6c5ac9d1a02d34388c3e3dfe
-SHA1: c879f684ecbff0a4d8cb99591c0555691172b353
-SHA256: 9b2d81865342b7a8ebdfa42eb3cd652e92f0c2ac2014d3a5ae623b6d30467de1
+Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions of 3.4: BGMI, Global, Korea, Taiwan, Vietnam.
+Size: 943900
+MD5sum: 3b348d5ddaf1d38ff54c7cc4ad6e75bd
+SHA1: c338f910dc3d7182ca8b63378ff21fe3624b7846
+SHA256: 31836518c9e3cf6f3696e5d14ff05d52d71e983c5e9057e25a93209764093910
 Section: Tweaks
-Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.4_iphoneos-arm64e.deb
+Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.4.1_iphoneos-arm64e.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM

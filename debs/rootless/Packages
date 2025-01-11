@@ -45,18 +45,18 @@ Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.5.1_iphoneos-arm64e.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM
-Version: 2.5
+Version: 2.6
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for CODM VN & KR made by @iOS_hAT! Supports only CODM VN (1.8.48) and KR (1.7.48) version.
-Size: 977346
-MD5sum: 106dcd80d9bc5cce1728e49a4aab05ce
-SHA1: 33bcc22a5eff9ec0a7104e0c92581bbcb6dd8740
-SHA256: 7a3527585787762aa7583c720be67bbb9a1c572c02f2f967c6c43f3a8c9108fb
+Description: Powerfull hack for CODM VN & KR made by @iOS_hAT! Supports only CODM VN (1.8.49) and KR (1.7.49) version.
+Size: 977376
+MD5sum: ee73bf3f05cca8844a4aa633058369c8
+SHA1: be1d98f76f7895ceec4251358723601e35ac20f2
+SHA256: 103fa46e9e03cf0e5d779bfe5ee71256ee6272938646c633c8f6cd64a25c73ff
 Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.pwnapplehatcodm_2.5_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.pwnapplehatcodm_2.6_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM
@@ -75,15 +75,15 @@ Filename: ./debs/rootfull/com.ioshat.pwnapplehatcodm_2.5_iphoneos-arm.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM
-Version: 2.4
+Version: 2.5
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for CODM VN, KR & CN made by @iOS_hAT! Supports only CODM Vietnam, Korea, and China versions.
-Size: 939158
-MD5sum: 07c8a8bb7a56259ab9d657cd491443cd
-SHA1: 7a0e6aa65c09289f0d65c366935b51fdd5f80a28
-SHA256: 32146ce6309c0637def031bb89dfb59707d063c1c455de16b64890189b57a3a9
+Description: Powerfull hack for CODM VN & KR made by @iOS_hAT! Supports only CODM VN (1.8.48) and KR (1.7.48) version.
+Size: 977556
+MD5sum: c4b5d9504666236e6b06143a48ea2de0
+SHA1: 1cdda4061f88271c0eebc2b9fc051e6f40a64438
+SHA256: b83efa70f7f3a965ad97ca5eedb292858964818d3f53e79c423b9c0daabf3af6
 Section: Tweaks
-Filename: ./debs/roothide/com.ioshat.pwnapplehatcodm_2.4_iphoneos-arm64e.deb
+Filename: ./debs/roothide/com.ioshat.pwnapplehatcodm_2.5_iphoneos-arm64e.deb

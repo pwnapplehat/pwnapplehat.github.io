@@ -15,33 +15,33 @@ Filename: ./debs/rootless/com.ioshat.pwnapplehatpubg_3.6_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 3.5.1
+Version: 3.6.1
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions of 3.5: BGMI, Global, Korea, Taiwan, Vietnam.
-Size: 981896
-MD5sum: cf104edacb1fe53e402c719269818713
-SHA1: 37c233b91f350799ff5fd89ea778f797a157249c
-SHA256: 6b4223367761d533067fc4ed223fb41f785963d87ed4836b3723b223adaad65c
+Description: PwnAppleHat Mod-Menu for PUBG Global, BGMI, Korea, Vietnam and Taiwan 3.6.
+Size: 54682
+MD5sum: 7e3bdb8f97fa54528ac267b2571da05b
+SHA1: eba9c218ad31778e3e89a9c1da4d944b61429629
+SHA256: 94423e7d15af887d9f125da5aecf74926a72fbc404b896f8a795ee2949044242
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_3.5.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_3.6.1_iphoneos-arm.deb
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 3.5.1
+Version: 3.6
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: Powerfull hack for PUBG made by @iOS_hAT! Supports All game versions of 3.5: BGMI, Global, Korea, Taiwan, Vietnam.
-Size: 980038
-MD5sum: b6715b883374efa8951835abe97d0aa2
-SHA1: 8f1c3a09b494ecb93828cd3e033ef583103e1209
-SHA256: bad7e91a149b17f3f19dac7d50522f3236958c0e03bb62e3c6fdc929349a8ab0
+Description: PwnAppleHat Mod-Menu for PUBG Global, BGMI, Korea, Vietnam and Taiwan 3.6.
+Size: 35878
+MD5sum: c5d791e6b8d25944c592205aecb7b578
+SHA1: 6c9e9b7b1f15939dd558a7046567eac9ce19a375
+SHA256: c9bbde27b35a0732911be5ae943455ffcb8571617bc4976b72d0f4bcb5ef9372
 Section: Tweaks
-Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.5.1_iphoneos-arm64e.deb
+Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.6_iphoneos-arm64e.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM

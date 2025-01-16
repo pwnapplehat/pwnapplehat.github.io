@@ -1,47 +1,47 @@
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 3.6.1
+Version: 3.6.2
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: PwnAppleHat Mod-Menu for PUBG Global, BGMI, Korea, Vietnam and Taiwan 3.6.
-Size: 54680
-MD5sum: b5edc4c73b64e7903013da5ae1596fec
-SHA1: 7976e8330eb586ccb8657431aab9bdf7c1e9c225
-SHA256: bea9501aaadb47f9753f3d1591c788969299c129bf08cbbc09beed65727916e6
+Size: 54682
+MD5sum: c6609827ecd0692d5731a1d4c86e0ede
+SHA1: 9f1c50d5bfab0df8a352a5a67d727092acb984ac
+SHA256: 9dbc3c868e94542d25800b52a20c8fcf3078c41ae57c0f6553f4e2c3636f2452
 Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.pwnapplehatpubg_3.6.1_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.pwnapplehatpubg_3.6.2_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 3.6.1
+Version: 3.6.2
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: PwnAppleHat Mod-Menu for PUBG Global, BGMI, Korea, Vietnam and Taiwan 3.6.
-Size: 54682
-MD5sum: 7e3bdb8f97fa54528ac267b2571da05b
-SHA1: eba9c218ad31778e3e89a9c1da4d944b61429629
-SHA256: 94423e7d15af887d9f125da5aecf74926a72fbc404b896f8a795ee2949044242
+Size: 54556
+MD5sum: 795c947145e9bbc5cdbf27252ad2c658
+SHA1: 6aa3d715393a152950a4f1a2ce694c8e6848c728
+SHA256: d4a96e0ba9e3ef0601dc3cb31f6274946d747e47364ff50e10374fa98b4cd0cc
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_3.6.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_3.6.2_iphoneos-arm.deb
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 3.6.1
+Version: 3.6.2
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: PwnAppleHat Mod-Menu for PUBG Global, BGMI, Korea, Vietnam and Taiwan 3.6.
-Size: 54566
-MD5sum: 1da8bd0e957b440b5235305fb2aaa597
-SHA1: 62fac0df07306a7d5445cb2e4c7b18bec5a150ba
-SHA256: d89e73645c190fed621ab524fc72763bc758a18e1c8a16270f918e9fccb23a3c
+Size: 54734
+MD5sum: 80d21232a8a8ea20f09e0a8f32a40491
+SHA1: 302228daeab744fb46d3688e9efb26364a843bee
+SHA256: 792e7a860c5c346254b5c85efb3a529b18bdd961936f39a9304e705d633cfc81
 Section: Tweaks
-Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.6.1_iphoneos-arm64e.deb
+Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.6.2_iphoneos-arm64e.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM

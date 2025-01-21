@@ -1,0 +1,71 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://your-repo-url/PwnAppleHat/banner.png",
+    "class": "DepictionTabView",
+    "tintColor": "#1A1A1A",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "PwnAppleHat Mod Menu",
+                    "useBoldText": true
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Advanced mod menu for PUBG Mobile, BGMI, PUBG KR, PUBG VN & PUBG TW"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://your-repo-url/PwnAppleHat/screenshot1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://your-repo-url/PwnAppleHat/screenshot2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://your-repo-url/PwnAppleHat/screenshot3.png"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": "### Features:\n\n**Combat Enhancements:**\n- Aimbot (70m, 100m, 360°)\n- No Recoil\n- No Scope Shake\n- Fast Bullets\n- Pro Scope\n\n**Visual Improvements:**\n- No Camera Shake\n- No Fog\n- No Grass\n- Small Crosshair\n- iPad View\n- Various Body Colors (White, Yellow, Red, Ice)\n\n**Movement & Vehicle:**\n- Speed Modification\n- Fast Vehicle\n- AntiBlock\n\n**Additional Features:**\n- Compatible with multiple PUBG versions (Global, BGMI, Korea, Vietnam, Taiwan)\n- Easy-to-use interface with toggle switches\n- Real-time feedback messages\n\n*Access the mod menu by tapping on the 'PwnAppleHat' label*",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "iOS_hAT (PwnAppleHat)",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ]
+}

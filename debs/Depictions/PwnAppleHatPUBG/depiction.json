@@ -2,7 +2,7 @@
     "minVersion": "0.1",
     "headerImage": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/banner.png",
     "class": "DepictionTabView",
-    "tintColor": "#1A1A1A",
+    "tintColor": "#415D58",
     "tabs": [
         {
             "views": [

@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "https://your-repo-url/PwnAppleHat/banner.png",
+    "headerImage": "https://github.com/pwnapplehat/pwnapplehat.github.io/blob/master/debs/Depictions/PwnAppleHatPUBG/banner.png",
     "class": "DepictionTabView",
     "tintColor": "#1A1A1A",
     "tabs": [
@@ -24,16 +24,20 @@
                 {
                     "screenshots": [
                         {
-                            "accessibilityText": "Screenshot0",
-                            "url": "https://your-repo-url/PwnAppleHat/screenshot1.png"
-                        },
-                        {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://your-repo-url/PwnAppleHat/screenshot2.png"
+                            "url": "https://github.com/pwnapplehat/pwnapplehat.github.io/blob/master/debs/Depictions/PwnAppleHatPUBG/screenshot1.PNG"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://your-repo-url/PwnAppleHat/screenshot3.png"
+                            "url": "https://github.com/pwnapplehat/pwnapplehat.github.io/blob/master/debs/Depictions/PwnAppleHatPUBG/screenshot2.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://github.com/pwnapplehat/pwnapplehat.github.io/blob/master/debs/Depictions/PwnAppleHatPUBG/screenshot3.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screensho4",
+                            "url": "https://github.com/pwnapplehat/pwnapplehat.github.io/blob/master/debs/Depictions/PwnAppleHatPUBG/screenshot4.PNG"
                         }
                     ],
                     "itemSize": "{160, 275.41333333333336}",

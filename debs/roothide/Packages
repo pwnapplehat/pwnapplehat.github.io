@@ -12,6 +12,8 @@ SHA1: 9f1c50d5bfab0df8a352a5a67d727092acb984ac
 SHA256: 9dbc3c868e94542d25800b52a20c8fcf3078c41ae57c0f6553f4e2c3636f2452
 Section: Tweaks
 Filename: ./debs/rootless/com.ioshat.pwnapplehatpubg_3.6.2_iphoneos-arm64.deb
+Icon: https://github.com/pwnapplehat/pwnapplehat.github.io/blob/master/CydiaIcon.png
+SileoDepiction: https://github.com/pwnapplehat/pwnapplehat.github.io/blob/master/debs/Depictions/PwnAppleHatPUBG/depiction.json
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
@@ -26,6 +28,8 @@ MD5sum: bdb912961ed427976c724723d5523727
 SHA1: e658b6225c9f2f6e8546f6a43c75b8ab91abef26
 SHA256: 79ff71710392dba328c42b962ecfb6747ff35971a104a0914aa59c4a9de66a45
 Section: Tweaks
+Icon: https://github.com/pwnapplehat/pwnapplehat.github.io/blob/master/CydiaIcon.png
+SileoDepiction: https://github.com/pwnapplehat/pwnapplehat.github.io/blob/master/debs/Depictions/PwnAppleHatPUBG/depiction.json
 Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_3.6.3_iphoneos-arm.deb
 
 Package: com.ioshat.pwnapplehatpubg
@@ -41,7 +45,9 @@ MD5sum: e866bc3b3573a6ab5927ecbde70725b8
 SHA1: 7403154f6421c14ec9b80b899e140004edd1a538
 SHA256: 756ddf14f1b5be99ab45fbd5b7c69966b3a94b0b0b66430e7c4cd1ff8c82d6cf
 Section: Tweaks
-Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.6.3_iphoneos-arm64e.deb
+Icon: https://github.com/pwnapplehat/pwnapplehat.github.io/blob/master/CydiaIcon.png
+SileoDepiction: https://github.com/pwnapplehat/pwnapplehat.github.io/blob/master/debs/Depictions/PwnAppleHatPUBG/depiction.json
+Filename: ./debs/com.ioshat.pwnapplehatpubg_3.6.3_iphoneos-arm64e.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM
@@ -86,4 +92,4 @@ MD5sum: ff5bcabb5cc7ae25e1f9593544756f8b
 SHA1: 75ceb833cff92bdb0633f7afcc7e4ac414c38947
 SHA256: f73eb8036a67ffd9972f60c816ef93b2111853618e318ebcbf087c6b5ee4b50c
 Section: Tweaks
-Filename: ./debs/roothide/com.ioshat.pwnapplehatcodm_2.6_iphoneos-arm64e.deb
+Filename: ./debs/com.ioshat.pwnapplehatcodm_2.6_iphoneos-arm64e.deb

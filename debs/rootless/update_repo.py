@@ -72,6 +72,11 @@ def update_packages_file():
             package_entry += f"SHA1: {deb_info.get('SHA1', '')}\n"
             package_entry += f"SHA256: {deb_info.get('SHA256', '')}\n"
             package_entry += f"Section: {deb_info.get('Section', '')}\n"  # Add Section field
+            # Add Icon and SileoDepiction if they exist in the control file
+            if 'Icon' in deb_info:
+                package_entry += f"Icon: {deb_info.get('Icon', '')}\n"
+            if 'SileoDepiction' in deb_info:
+                package_entry += f"SileoDepiction: {deb_info.get('SileoDepiction', '')}\n"
             # Check architecture and set the Filename path accordingly
             if deb_info.get('Architecture', '') == 'iphoneos-arm64':
                 package_entry += f"Filename: ./debs/rootless/{filename}\n"
@@ -122,6 +127,11 @@ def update_packages_file():
                 package_entry += f"SHA1: {deb_info.get('SHA1', '')}\n"
                 package_entry += f"SHA256: {deb_info.get('SHA256', '')}\n"
                 package_entry += f"Section: {deb_info.get('Section', '')}\n"  # Add Section field
+                # Add Icon and SileoDepiction if they exist in the control file
+                if 'Icon' in deb_info:
+                    package_entry += f"Icon: {deb_info.get('Icon', '')}\n"
+                if 'SileoDepiction' in deb_info:
+                    package_entry += f"SileoDepiction: {deb_info.get('SileoDepiction', '')}\n"
                 # Check architecture and set the Filename path accordingly
                 if deb_info.get('Architecture', '') == 'iphoneos-arm64':
                     package_entry += f"Filename: ./debs/rootless/{filename}\n"

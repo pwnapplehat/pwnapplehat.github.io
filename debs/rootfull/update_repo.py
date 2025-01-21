@@ -67,13 +67,16 @@ def update_packages_file():
             package_entry += f"Author: {deb_info.get('Author', '')}\n"
             package_entry += f"Maintainer: {deb_info.get('Maintainer', '')}\n"
             package_entry += f"Description: {deb_info.get('Description', '')}\n"
-            package_entry += f"Icon: {deb_info.get('Icon', '')}\n"
-            package_entry += f"SileoDepiction: {deb_info.get('SileoDepiction', '')}\n"
             package_entry += f"Size: {deb_info.get('Size', '')}\n"
             package_entry += f"MD5sum: {deb_info.get('MD5', '')}\n"
             package_entry += f"SHA1: {deb_info.get('SHA1', '')}\n"
             package_entry += f"SHA256: {deb_info.get('SHA256', '')}\n"
             package_entry += f"Section: {deb_info.get('Section', '')}\n"  # Add Section field
+            # Add Icon and SileoDepiction if they exist in the control file
+            if 'Icon' in deb_info:
+                package_entry += f"Icon: {deb_info.get('Icon', '')}\n"
+            if 'SileoDepiction' in deb_info:
+                package_entry += f"SileoDepiction: {deb_info.get('SileoDepiction', '')}\n"
             # Check architecture and set the Filename path accordingly
             if deb_info.get('Architecture', '') == 'iphoneos-arm64':
                 package_entry += f"Filename: ./debs/rootless/{filename}\n"
@@ -119,13 +122,16 @@ def update_packages_file():
                 package_entry += f"Author: {deb_info.get('Author', '')}\n"
                 package_entry += f"Maintainer: {deb_info.get('Maintainer', '')}\n"
                 package_entry += f"Description: {deb_info.get('Description', '')}\n"
-                package_entry += f"Icon: {deb_info.get('Icon', '')}\n"
-                package_entry += f"SileoDepiction: {deb_info.get('SileoDepiction', '')}\n"
                 package_entry += f"Size: {deb_info.get('Size', '')}\n"
                 package_entry += f"MD5sum: {deb_info.get('MD5', '')}\n"
                 package_entry += f"SHA1: {deb_info.get('SHA1', '')}\n"
                 package_entry += f"SHA256: {deb_info.get('SHA256', '')}\n"
                 package_entry += f"Section: {deb_info.get('Section', '')}\n"  # Add Section field
+                # Add Icon and SileoDepiction if they exist in the control file
+                if 'Icon' in deb_info:
+                    package_entry += f"Icon: {deb_info.get('Icon', '')}\n"
+                if 'SileoDepiction' in deb_info:
+                    package_entry += f"SileoDepiction: {deb_info.get('SileoDepiction', '')}\n"
                 # Check architecture and set the Filename path accordingly
                 if deb_info.get('Architecture', '') == 'iphoneos-arm64':
                     package_entry += f"Filename: ./debs/rootless/{filename}\n"

@@ -51,45 +51,51 @@ Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.6.3_iphoneos-arm64e.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM
-Version: 2.6
+Version: 49
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for CODM VN & KR made by @iOS_hAT! Supports only CODM VN (1.8.49) and KR (1.7.49) version.
-Size: 977376
-MD5sum: ee73bf3f05cca8844a4aa633058369c8
-SHA1: be1d98f76f7895ceec4251358723601e35ac20f2
-SHA256: 103fa46e9e03cf0e5d779bfe5ee71256ee6272938646c633c8f6cd64a25c73ff
+Size: 976492
+MD5sum: bc702939d52b0afebb39444453eb2e23
+SHA1: fdd27dbd895ee1b8074b165f3180b83f3f0fc4d3
+SHA256: ea13504b9483d8c86ccc6038f867c4b3b8850bec5a9426f6d584e35c1305c76e
 Section: Tweaks
-Filename: ./debs/rootless/com.ioshat.pwnapplehatcodm_2.6_iphoneos-arm64.deb
+Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/CydiaIcon.png
+SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/depiction.json
+Filename: ./debs/rootless/com.ioshat.pwnapplehatcodm_49_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM
-Version: 2.6
+Version: 49
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for CODM VN & KR made by @iOS_hAT! Supports only CODM VN (1.8.49) and KR (1.7.49) version.
-Size: 977598
-MD5sum: 19830d5beac995c2ba15962e15cb3b0a
-SHA1: 613dde32ab40563c362295aa89c04364f33afc96
-SHA256: 4bd489543174ee160446169f0f9c79a9317c5128b0cdbda6e9a70dae725cf6d6
+Size: 977864
+MD5sum: a9e7a9f9aac983774f2ad311559d2ae5
+SHA1: 719323ed52b9f0626e66bee5af874c64796d913b
+SHA256: 95eed9062e109c5cb610dd8eeccf478d9bc1c6bb5eb4c5ab129b1149e8a65585
 Section: Tweaks
-Filename: ./debs/rootfull/com.ioshat.pwnapplehatcodm_2.6_iphoneos-arm.deb
+Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/CydiaIcon.png
+SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/depiction.json
+Filename: ./debs/rootfull/com.ioshat.pwnapplehatcodm_49_iphoneos-arm.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM
-Version: 2.6
+Version: 49
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for CODM VN & KR made by @iOS_hAT! Supports only CODM VN (1.8.49) and KR (1.7.49) version.
-Size: 977388
-MD5sum: ff5bcabb5cc7ae25e1f9593544756f8b
-SHA1: 75ceb833cff92bdb0633f7afcc7e4ac414c38947
-SHA256: f73eb8036a67ffd9972f60c816ef93b2111853618e318ebcbf087c6b5ee4b50c
+Size: 978330
+MD5sum: b690e0bcf6f72a08308dfea33596467f
+SHA1: 12cf57e055344e4a88f8cb3ca71a7a151843f303
+SHA256: c1f718241f1d3efe908b0a68606b39f4af4d75d0225b3a370a918666a5f5823f
 Section: Tweaks
-Filename: ./debs/roothide/com.ioshat.pwnapplehatcodm_2.6_iphoneos-arm64e.deb
+Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/CydiaIcon.png
+SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/depiction.json
+Filename: ./debs/roothide/com.ioshat.pwnapplehatcodm_49_iphoneos-arm64e.deb

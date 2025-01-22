@@ -1,0 +1,75 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/banner.png",
+    "class": "DepictionTabView",
+    "tintColor": "#415D58",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "PwnAppleHat Mod Menu",
+                    "useBoldText": true
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Advanced mod menu for Call of Duty: Mobile VN (1.8.49) & KR (1.7.49)"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/screenshot1.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/screenshot2.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/screenshot3.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screensho4",
+                            "url": "https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/screenshot4.PNG"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": "### Features:\n\n**Combat Enhancements:**\n- Wallhack\n- Auto AimAssist\n- AimAssist\n- High AimAssist\n- HitBox\n- No Spread Bullets\n- No Recoil (70%)\n- No Recoil (100%)\n- No Muzzle Flash\n- No Reload\n- Fast Scope\n\n**Movement & Speed:**\n- Fast Speed\n- Speed\n- Long Slide\n- Fast Swim\n- Fast Parachute\n- Free Climb\n\n**Visual & Tactical:**\n- Red Body\n- Anti Flash\n- UAV (BR)\n- ADV UAV\n- Counter UAV\n- Small Dot\n\n**Weapon Features:**\n- Infinite Ammo\n- Unlimited Firing\n- Always Knife\n\n**Additional Info:**\n- Compatible with CODM VN (1.8.49) & KR (1.7.49) Only!",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "iOS_hAT (PwnAppleHat)",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ]
+}

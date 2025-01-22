@@ -11,7 +11,7 @@ MD5sum: fd362d5856effc6ff66d35335e63f3f1
 SHA1: f208b891e2f38022bd39073118909fa98889dc28
 SHA256: 913f6a852722346cf7868993d299bced7076cc4d932e99f360e1a54a7649edcd
 Section: Tweaks
-Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/CydiaIcon.png
+Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/icon.png
 SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/depiction.json
 Filename: ./debs/rootless/com.ioshat.pwnapplehatpubg_3.6.3_iphoneos-arm64.deb
 
@@ -28,7 +28,7 @@ MD5sum: 0dc913737daadcb8139aead68ffca424
 SHA1: 0cdd81d924cc5961eecdb52a424ae4f10879873d
 SHA256: 59c6e07fd13fed5bb0586a2d67bfcb95a79a2e8139281bf02cac6be445e9385f
 Section: Tweaks
-Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/CydiaIcon.png
+Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/icon.png
 SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/depiction.json
 Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_3.6.3_iphoneos-arm.deb
 
@@ -45,7 +45,7 @@ MD5sum: 5620670811354f8b875e4b75164eed26
 SHA1: 286259126db516086c8613c8557d698a9c2d7678
 SHA256: bd2107fe8d1d1ebe8ee2b32e19c2ac74aa0a074dd65c250ded904c28f686bfea
 Section: Tweaks
-Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/CydiaIcon.png
+Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/icon.png
 SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/depiction.json
 Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.6.3_iphoneos-arm64e.deb
 

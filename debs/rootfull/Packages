@@ -23,13 +23,13 @@ Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: PwnAppleHat Mod-Menu for PUBG Global, BGMI, Korea, Vietnam and Taiwan 3.6.
-Size: 55472
-MD5sum: bdb912961ed427976c724723d5523727
-SHA1: e658b6225c9f2f6e8546f6a43c75b8ab91abef26
-SHA256: 79ff71710392dba328c42b962ecfb6747ff35971a104a0914aa59c4a9de66a45
+Size: 55628
+MD5sum: 0dc913737daadcb8139aead68ffca424
+SHA1: 0cdd81d924cc5961eecdb52a424ae4f10879873d
+SHA256: 59c6e07fd13fed5bb0586a2d67bfcb95a79a2e8139281bf02cac6be445e9385f
 Section: Tweaks
-Icon: https://github.com/pwnapplehat/pwnapplehat.github.io/blob/master/CydiaIcon.png
-SileoDepiction: https://github.com/pwnapplehat/pwnapplehat.github.io/blob/master/debs/Depictions/PwnAppleHatPUBG/depiction.json
+Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/CydiaIcon.png
+SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/depiction.json
 Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_3.6.3_iphoneos-arm.deb
 
 Package: com.ioshat.pwnapplehatpubg

@@ -82,6 +82,8 @@ def update_packages_file():
                 package_entry += f"Filename: ./debs/rootless/{filename}\n"
             elif deb_info.get('Architecture', '') == 'iphoneos-arm':
                 package_entry += f"Filename: ./debs/rootfull/{filename}\n"
+            elif deb_info.get('Architecture', '') == 'iphoneos-arm64e':
+                package_entry += f"Filename: ./debs/roothide/{filename}\n"
             else:
                 package_entry += f"Filename: ./debs/{filename}\n"
             # Find all occurrences of the package bundle ID in the Packages file
@@ -137,6 +139,8 @@ def update_packages_file():
                     package_entry += f"Filename: ./debs/rootless/{filename}\n"
                 elif deb_info.get('Architecture', '') == 'iphoneos-arm':
                     package_entry += f"Filename: ./debs/rootfull/{filename}\n"
+                elif deb_info.get('Architecture', '') == 'iphoneos-arm64e':
+                    package_entry += f"Filename: ./debs/roothide/{filename}\n"
                 else:
                     package_entry += f"Filename: ./debs/{filename}\n"
                 # Append the new package entry to the Packages file content

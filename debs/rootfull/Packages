@@ -1,19 +1,19 @@
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 3.8
+Version: 3.8.1
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: PwnAppleHat Mod-Menu for PUBG Global, BGMI, Korea, Vietnam and Taiwan 3.7.
-Size: 58622
-MD5sum: ea8e187c636359a5036b65f51c128b09
-SHA1: 99530f079ebabc6ffdc95064e9bcc5bb6fa35bf1
-SHA256: 6eede5d4e0c235d1b47f71ebdab9adee606988a4695e6a2925ec0ec98308da1e
+Description: PwnAppleHat Mod-Menu for PUBG Global, BGMI, Korea, Vietnam and Taiwan 3.8.
+Size: 40532
+MD5sum: 9e12ff5782d7fb3ea7ad2501234c27a5
+SHA1: 58d352350187219113b3d8b85d3c6074a0aac36a
+SHA256: dc34646637ea96130d72dcb2997997c884a1d05f4258aef79f990e74897ec340
 Section: Tweaks
 Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/icon.png
 SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/depiction.json
-Filename: ./debs/rootless/com.ioshat.pwnapplehatpubg_3.8_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.pwnapplehatpubg_3.8.1_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
@@ -34,20 +34,20 @@ Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_3.8.1_iphoneos-arm.deb
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 3.8
+Version: 3.8.1
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
-Description: PwnAppleHat Mod-Menu for PUBG Global, BGMI, Korea, Vietnam and Taiwan 3.7.
-Size: 58598
-MD5sum: 614670cb26dadc5cfc0912511d1fbde5
-SHA1: bdd8a0825af45e54d272f60c1f56f4249cb16883
-SHA256: 9699c92ea92e4f08e63ff9c216c5c2a83c3c32f9ac662e211251527f96517820
+Description: PwnAppleHat Mod-Menu for PUBG Global, BGMI, Korea, Vietnam and Taiwan 3.8.
+Size: 40482
+MD5sum: 30ebe78e9021462ec905e361b35536a3
+SHA1: 75198d6daebb56354887548ec59875c82e9f1fcc
+SHA256: 41ff12b795703b9845a00b7daa1a65a5457f7ffd1139eb44a1b04b6415076990
 Section: Tweaks
 Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/icon.png
 SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/depiction.json
-Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.8_iphoneos-arm64e.deb
+Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.8.1_iphoneos-arm64e.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM
@@ -68,20 +68,20 @@ Filename: ./debs/rootless/com.ioshat.pwnapplehatcodm_50_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM
-Version: 50
+Version: 51
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for CODM VN & KR made by @iOS_hAT! Supports only CODM VN (1.8.50) and KR (1.7.50) version.
-Size: 973572
-MD5sum: 147bd309aec031ac18590400622e9aa4
-SHA1: 0cd75720f63e0b1e4a5cf1e896efc5ff61e2506d
-SHA256: ec91441a61d37a51b5229541d31cf2639fd152371839ab04223a0bffcffefc2b
+Size: 62674
+MD5sum: 389dc7657eabd71b1e42f6f4022a753c
+SHA1: 7f3d56d5ca3eb9fef75af5a6203a8986fdde8cca
+SHA256: 76d1458dd16780e5a8d0d4eee1e83e399ed39fd540b94b92cdf6386c7a876611
 Section: Tweaks
 Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/icon.png
 SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/depiction.json
-Filename: ./debs/rootfull/com.ioshat.pwnapplehatcodm_50_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.pwnapplehatcodm_51_iphoneos-arm.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM

@@ -51,51 +51,51 @@ Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_3.8.1_iphoneos-arm64e.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM
-Version: 50
+Version: 51
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for CODM VN & KR made by @iOS_hAT! Supports only CODM VN (1.8.50) and KR (1.7.50) version.
-Size: 978582
-MD5sum: e205ae0b5c05bbaee61cc0c6ae538cee
-SHA1: 4cfa7b84e7e5a22f626a9b45c0c4b7656b5f8e74
-SHA256: c51881d74ada4df626d4502bbef9db895b29eee402b03c9f81670632c852237f
+Size: 62846
+MD5sum: 61fd531c00aa7e0505a36cc5af356b3a
+SHA1: 85fcb3766d998d16c53cb3dc32074ede51fcbc02
+SHA256: 97b24ca7ff384d11ca09ab2d758489e4c58ba8b2f3cba89020fc7fc512224c96
 Section: Tweaks
 Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/icon.png
 SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/depiction.json
-Filename: ./debs/rootless/com.ioshat.pwnapplehatcodm_50_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.pwnapplehatcodm_51_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM
-Version: 50
+Version: 51
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for CODM VN & KR made by @iOS_hAT! Supports only CODM VN (1.8.50) and KR (1.7.50) version.
-Size: 973572
-MD5sum: 147bd309aec031ac18590400622e9aa4
-SHA1: 0cd75720f63e0b1e4a5cf1e896efc5ff61e2506d
-SHA256: ec91441a61d37a51b5229541d31cf2639fd152371839ab04223a0bffcffefc2b
+Size: 62674
+MD5sum: 389dc7657eabd71b1e42f6f4022a753c
+SHA1: 7f3d56d5ca3eb9fef75af5a6203a8986fdde8cca
+SHA256: 76d1458dd16780e5a8d0d4eee1e83e399ed39fd540b94b92cdf6386c7a876611
 Section: Tweaks
 Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/icon.png
 SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/depiction.json
-Filename: ./debs/rootfull/com.ioshat.pwnapplehatcodm_50_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.pwnapplehatcodm_51_iphoneos-arm.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM
-Version: 50
+Version: 51
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: Powerfull hack for CODM VN & KR made by @iOS_hAT! Supports only CODM VN (1.8.50) and KR (1.7.50) version.
-Size: 977152
-MD5sum: d9293741f81c0389a92f75ab96743372
-SHA1: d2f5c603172f189b5afb06fb408e3132c2af5c9a
-SHA256: 660559cd81e734889cfccbf0c65a9c241da35bbe7f083091a97c8622dfbd37dd
+Size: 62586
+MD5sum: f35940a6284d7b1f85f1625fa9e5db40
+SHA1: b7ad08f450f64c90d709465f23d0110d72c3a16d
+SHA256: 4cc1105df6a20b3e6fa8fd40027ef59385ac10401f1cad03f37c49c0f6551aac
 Section: Tweaks
 Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/icon.png
 SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatCODM/depiction.json
-Filename: ./debs/roothide/com.ioshat.pwnapplehatcodm_50_iphoneos-arm64e.deb
+Filename: ./debs/roothide/com.ioshat.pwnapplehatcodm_51_iphoneos-arm64e.deb

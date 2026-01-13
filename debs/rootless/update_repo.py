@@ -6,38 +6,74 @@ import lzma
 import shutil
 import tempfile
 
+import io
+import struct
+
+def extract_ar_members(path):
+    members = {}
+    with open(path, "rb") as f:
+        if f.read(8) != b"!<arch>\n":
+            raise ValueError("Not a valid ar archive")
+
+        while True:
+            header = f.read(60)
+            if len(header) < 60:
+                break
+
+            name = header[:16].decode().strip()
+            size = int(header[48:58].decode().strip())
+            data = f.read(size)
+
+            if size % 2 == 1:
+                f.read(1)  # padding byte
+
+            members[name] = data
+
+    return members
+
+
 def get_deb_info(deb_file):
     deb_info = {}
-    temp_dir = tempfile.mkdtemp()  # Create a temporary directory
-    try:
-        # Use ar command to extract control.tar.gz or control.tar.xz from the .deb file
-        subprocess.run(["ar", "x", deb_file], cwd=temp_dir)
-        # Check if control.tar.gz or control.tar.xz exists
-        if os.path.exists(os.path.join(temp_dir, "control.tar.gz")):
-            control_file = "control.tar.gz"
-        elif os.path.exists(os.path.join(temp_dir, "control.tar.xz")):
-            control_file = "control.tar.xz"
-        else:
-            raise ValueError("No control.tar.gz or control.tar.xz found in the .deb file.")
-        # Extract control file from control.tar.gz or control.tar.xz
-        with tarfile.open(os.path.join(temp_dir, control_file)) as tar:
-            control_file_content = tar.extractfile("./control").read().decode("utf-8")
-        # Split control file into lines and extract necessary information
-        for line in control_file_content.split("\n"):
-            if ":" in line:
-                key, value = line.split(":", 1)
-                deb_info[key.strip()] = value.strip()
-        # Calculate size of the deb file
-        deb_info["Size"] = os.path.getsize(deb_file)
-        # Calculate MD5, SHA1, SHA256 checksums for the file
-        with open(deb_file, "rb") as f:
-            data = f.read()
-            deb_info["MD5"] = hashlib.md5(data).hexdigest()
-            deb_info["SHA1"] = hashlib.sha1(data).hexdigest()
-            deb_info["SHA256"] = hashlib.sha256(data).hexdigest()
-    finally:
-        # Cleanup extracted files and temporary directory
-        shutil.rmtree(temp_dir)
+
+    members = extract_ar_members(deb_file)
+
+    control_tar = None
+    for key in members:
+        if key.startswith("control.tar"):
+            control_tar = key
+            break
+
+    if not control_tar:
+        raise ValueError("No control archive found in .deb")
+
+    control_bytes = members[control_tar]
+
+    mode = "r:gz" if control_tar.endswith(".gz") else "r:xz"
+    with tarfile.open(fileobj=io.BytesIO(control_bytes), mode=mode) as tar:
+        control_member = None
+        for member in tar.getmembers():
+            if member.name.endswith("/control") or member.name == "control":
+               control_member = member
+               break
+
+        if not control_member:
+            raise ValueError("control file not found inside control.tar")
+
+        control = tar.extractfile(control_member).read().decode("utf-8")
+
+    for line in control.splitlines():
+        if ":" in line:
+            k, v = line.split(":", 1)
+            deb_info[k.strip()] = v.strip()
+
+    deb_info["Size"] = os.path.getsize(deb_file)
+
+    with open(deb_file, "rb") as f:
+        data = f.read()
+        deb_info["MD5"] = hashlib.md5(data).hexdigest()
+        deb_info["SHA1"] = hashlib.sha1(data).hexdigest()
+        deb_info["SHA256"] = hashlib.sha256(data).hexdigest()
+
     return deb_info
 
 def update_packages_file():

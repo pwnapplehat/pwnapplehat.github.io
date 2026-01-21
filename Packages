@@ -1,53 +1,53 @@
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 4.2.1
+Version: 4.2.2
 Architecture: iphoneos-arm64
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: PwnAppleHat Mod-Menu for PUBG Global, BGMI, Korea, Vietnam and Taiwan 4.2.
-Size: 77836
-MD5sum: b453ba34c0234757c0b527406cdca140
-SHA1: d03241bee18b6d5dd2fce53f168d890cc7116b48
-SHA256: 523ac4aa345e5df664334d7886a89a81b85d8d8830cdad2eb090c9b5a7585c07
+Size: 77902
+MD5sum: c4784ca96febf850c6da810e420224ef
+SHA1: 2e5f99c81f8aebdc2a2f3f59e5ab6a914c6878a8
+SHA256: 2ebbcbcd50ba9afaadd5f74ca8b1002df640a1766c74f6ad1050a040cc603ac3
 Section: Tweaks
 Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/icon.png
 SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/depiction.json
-Filename: ./debs/rootless/com.ioshat.pwnapplehatpubg_4.2.1_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.ioshat.pwnapplehatpubg_4.2.2_iphoneos-arm64.deb
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 4.2.1
+Version: 4.2.2
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: PwnAppleHat Mod-Menu for PUBG Global, BGMI, Korea, Vietnam and Taiwan 4.2.
-Size: 77686
-MD5sum: bd00d4e18c83dd3405d212ca5c42ebef
-SHA1: 6016f2c5a4a0810af7d762b1b85b36e7e77f841b
-SHA256: b890e1470ef50e387ad18996410af3ce57b2100b1ad66dbdb98a1a43d134099a
+Size: 77718
+MD5sum: 9cdf1be0cfb103c1ed9018b2a79266ff
+SHA1: 9f0ce12c35f60ee930119a73f18868861b274397
+SHA256: 8e1ef131d6859e511cc10f46ba849ab281c7fb3ed892da00592b03f1ca29d190
 Section: Tweaks
 Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/icon.png
 SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/depiction.json
-Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_4.2.1_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.ioshat.pwnapplehatpubg_4.2.2_iphoneos-arm.deb
 
 Package: com.ioshat.pwnapplehatpubg
 Name: PwnAppleHat PUBG
-Version: 4.2.1
+Version: 4.2.2
 Architecture: iphoneos-arm64e
 Depends: mobilesubstrate, firmware (>= 13.0)
 Author: iOS_hAT
 Maintainer: iOS_hAT
 Description: PwnAppleHat Mod-Menu for PUBG Global, BGMI, Korea, Vietnam and Taiwan 4.2.
-Size: 77692
-MD5sum: cf89d285b4dbfbc3de160b45fe5c10cb
-SHA1: 70efc404103ce53ddc0c4b5679752db0f9733f4d
-SHA256: 4c44749cf7901b7ef1afa0e21e86fb23f5fa1c6e411918eacd38dc9547f1eaf1
+Size: 77784
+MD5sum: 656488e80bce8f4b8f2cf552ead4dac4
+SHA1: 7c49e8154dfeb0300f5735db574bb715280d38f3
+SHA256: 5f876c4fab3d12316aec168539a3976f327d6107c3945ad3b37c889405938800
 Section: Tweaks
 Icon: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/icon.png
 SileoDepiction: https://raw.githubusercontent.com/pwnapplehat/pwnapplehat.github.io/refs/heads/master/debs/Depictions/PwnAppleHatPUBG/depiction.json
-Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_4.2.1_iphoneos-arm64e.deb
+Filename: ./debs/roothide/com.ioshat.pwnapplehatpubg_4.2.2_iphoneos-arm64e.deb
 
 Package: com.ioshat.pwnapplehatcodm
 Name: PwnAppleHat CODM
